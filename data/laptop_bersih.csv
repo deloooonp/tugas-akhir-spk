@@ -1,0 +1,894 @@
+id,nama,merek,harga_inr,ram_gb,penyimpanan_gb,resolusi_piksel,prosesor,gpu,ukuran_layar,os
+1,Victus 15-fb0157AX Gaming Laptop,HP,49900,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB AMD Radeon RX 6500M,15.6,Windows 11 OS
+2,15s-fq5007TU Laptop,HP,39900,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+3,One 14 Z8-415 Laptop,Acer,26990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Iris Xe Graphics,14.0,Windows 11 OS
+4,Yoga Slim 6 14IAP8 82WU0095IN Laptop,Lenovo,59729,16.0,512.0,3136000.0,12th Gen Intel Core i5 1240P,Intel Integrated Iris Xe,14.0,Windows 11 OS
+5,MacBook Air 2020 MGND3HN Laptop,Apple,69990,8.0,256.0,4096000.0,Apple M1,Apple M1 Integrated Graphics,13.3,Mac OS
+6,Extensa EX214-53 Laptop,Acer,39990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+7,Inspiron 3520 D560896WIN9B Laptop,Dell,36790,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+8,Nitro V ANV15-51 2023 Gaming Laptop,Acer,76990,16.0,512.0,2073600.0,13th Gen Intel Core i5 13420H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+9,Vivobook 15 X1502ZA-EJ523WS Laptop,Asus,48990,8.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,Intel Iris Xe,15.6,Windows 11 OS
+10,Galaxy Book2 Pro 13 Laptop,Samsung,74990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,Intel Iris Xe Graphics,13.3,Windows 11 OS
+11,V15 G3 IAP 82TTA08AIN Laptop,Lenovo,49990,16.0,512.0,2073600.0,12th Gen Intel Core i7 1255U,Intel Integrated UHD,15.6,Windows 11 OS
+12,Pro NU14U3INC43BN-CS Laptop,Ultimus,10990,4.0,128.0,1049088.0,Intel Celeron  N4020,Intel Integrated UHD Graphics,14.1,Windows 11 OS
+13,TUF Gaming F15 2022 FX507ZC4-HN116W Gaming Laptop,Asus,72990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+14,4G Android Laptop,Primebook,10990,4.0,64.0,1049088.0,MediaTek MTK8788,ARM Mali G72,11.6,Android 11 OS
+15,V15 G4 ‎82YU00W7IN Laptop,Lenovo,29990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon Graphics,15.6,Windows 11 OS
+16,TUF Gaming F15 FX506HF-HN024W Gaming Laptop,Asus,53649,8.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+17,Modern 14 C11M-031IN Laptop,MSI,33990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,14.0,Windows 11 OS
+18,Zerobook 2023 Laptop,Infinix,79990,32.0,1024.0,2073600.0,13th Gen Intel Core i9 13900H,Intel Integrated Iris Xe,15.6,Windows 11 OS
+19,Victus 15-fa0666TX Gaming Laptop,HP,68990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+20,IdeaPad Gaming 3 15IHU6 82K101GSIN Laptop,Lenovo,45990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11300H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+21,Vivobook 16X 2022 M1603QA-MB502WS Laptop,Asus,49900,8.0,512.0,2304000.0,5th Gen AMD Ryzen 5 5600H,AMD Radeon Vega 7,16.0,Windows 11 OS
+22,MacBook Air 2022 Laptop,Apple,104990,8.0,256.0,4259840.0,Apple M2,8-Core GPU,13.6,Mac OS
+23,Aspire 7 A715-76G UN.QMYSI.002 Gaming Laptop,Acer,54990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+24,15s-fq2510tu Laptop,HP,49580,16.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Iris Xe Graphics,15.6,Windows 11 OS
+25,Vivobook 16X 2022 M1603QA-MB711WS Laptop,Asus,55990,16.0,512.0,2304000.0,5th Gen AMD Ryzen 7  5800H,AMD Radeon Vega 7,16.0,Windows 11 OS
+26,15s-eq2132AU Laptop,HP,43990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon AMD,15.6,Windows 11 OS
+27,255 G9 840T7PA Laptop,HP,19850,4.0,256.0,1049088.0,3rd Gen AMD Athlon 3050U,AMD Integrated,15.6,DOS OS
+28,Extensa 15 EX215-33 2023 Laptop,Acer,28990,8.0,512.0,2073600.0,Intel Core i3 N305,Intel Integrated UHD,15.6,Windows 11 OS
+29,Aspire 5 A515-57G UN.K9TSI.002 Gaming Laptop,Acer,54999,16.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+30,Inspiron 3530 Laptop,Dell,70990,16.0,512.0,2073600.0,13th Gen Intel Core i7 1355U,Intel UHD Graphics,15.6,Windows 11 OS
+31,IdeaPad Gaming 3 82SB00V2IN Laptop,Lenovo,56889,8.0,512.0,2073600.0,6th Gen AMD Ryzen 5 6600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+32,Predator Helios Neo 16 2023 PHN16-71 Gaming Laptop,Acer,179880,16.0,1024.0,2304000.0,13th Gen Intel Core i9 13900HX,8GB NVIDIA GeForce RTX 4070,16.0,Windows 11 OS
+33,Victus 15-fb0150AX Gaming Laptop,HP,53790,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB AMD Radeon RX 6500M Graphics,15.6,Windows 11 OS
+34,Aspire Lite AL15 Laptop,Acer,37990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Graphics,15.6,Windows 11 OS
+35,Nitro 5 AN515-58 NH.QFSSI.001 Gaming Laptop,Acer,96990,16.0,1024.0,3686400.0,12th Gen Intel Core i7 12650H,8GB NVIDIA GeForce RTX 3070 Ti,15.6,Windows 11 OS
+36,Pavilion 15-eg3081TU Laptop,HP,71990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1340P,Intel Integrated Integrated,15.6,Windows 11 OS
+37,Victus 16-d0333TX Gaming Laptop,HP,59990,16.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce GTX 1650,16.1,Windows 11 OS
+38,IdeaPad Slim 5 14IAH8 83BF0045IN Laptop,Lenovo,62990,16.0,1024.0,2304000.0,12th Gen Intel Core i5 12450H,Intel Graphics,14.0,Windows 11 OS
+39,INBook X3 Slim XL422 2023 Laptop,Infinix,30990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+40,LOQ 15IRH8 82XV00F5IN 2023 Gaming Laptop,Lenovo,74990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,6GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+41,15s-fr2515TU Laptop,HP,36490,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+42,G15-5520 2023 Laptop,Dell,77990,16.0,1024.0,2073600.0,12th Gen Intel Core i5 12500H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+43,Galaxy Book2 NP550XED-KA2IN Laptop,Samsung,54990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD,15.6,Windows 11 OS
+44,IdeaPad 3 15IAU7 82RK00WXIN Laptop,Lenovo,41190,8.0,256.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+45,ROG Strix G16 2023 G614JJ-N3086WS Gaming Laptop,Asus,89990,16.0,512.0,2304000.0,13th Gen Intel Core i5 13450HX,6GB NVIDIA GeForce RTX 3050,16.0,Windows 11 OS
+46,Legion 9i 2023 Laptop,Lenovo,399999,32.0,1024.0,6400000.0,13th Gen Intel Core i9 13980HX,16GB NVIDIA GeForce RTX 4090,16.0,Windows 11 OS
+47,Nuvobook V1 Laptop,Wings,31990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Graphics,15.6,Windows 11 OS
+48,Inspiron 3525 Laptop,Dell,31490,8.0,512.0,2073600.0,5th Gen AMD Ryzen 3 5300U,AMD Radeon Radeon Graphics,15.6,Windows 11 OS
+49,Victus 15-fa0555TX  Laptop,HP,70590,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+50,TUF Gaming F15 2023 FX507ZV-LP094W Gaming Laptop,Asus,104990,16.0,512.0,2073600.0,12th Gen Intel Core i7 12700H,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+51,V15 82QYA00MIN Laptop,Lenovo,23990,8.0,256.0,2073600.0,Intel Celeron  N4020,Intel Integrated Intel UHD Graphics,15.6,Windows 11 OS
+52,255 G9 7B1L8PA Laptop,HP,37999,8.0,512.0,1049088.0,5th Gen AMD Ryzen 5 5625U,AMD Radeon Graphics,15.6,Windows 11 OS
+53,MagicBook X14 2023 ‎FRI-F56 Laptop,Honor,52990,16.0,512.0,2304000.0,12th Gen Intel Core i5 12450H,Intel UHD Graphics,14.0,Windows 11 OS
+54,V15 82KDA01BIH Laptop,Lenovo,30849,8.0,512.0,2073600.0,5th Gen AMD Ryzen 3 5300U,AMD Radeon Graphics,15.6,Windows 11 OS
+55,Victus 15-fa0070TX Laptop,HP,58990,8.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+56,ZEB-NBC 2S Laptop,Zebronics,34990,16.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Integrated UHD,15.6,Windows 11 OS
+57,ThinkBook 15 Gen 5 21JF0026MJ Laptop,Lenovo,49990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon AMD,16.0,Windows 11 OS
+58,15S-FQ5202TU Laptop,HP,51780,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+59,TUF Gaming F15 FX506HE-HN382W Gaming Laptop,Asus,68990,16.0,512.0,2073600.0,11th Gen Intel Core i7 11800H,4GB NVIDIA GeForce RTX 3050 Ti,15.6,Windows 11 OS
+60,TUF Gaming F15 FX577ZC-HN192W Gaming Laptop,Asus,85990,16.0,1024.0,2073600.0,12th Gen Intel Core i7 12700H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+61,LOQ 15IRH8 82XV00BQIN 2023 Gaming Laptop,Lenovo,96990,16.0,512.0,2073600.0,13th Gen Intel Core i7 13620H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+62,Legion Y9000X 2023 Laptop,Lenovo,148990,32.0,1024.0,6400000.0,13th Gen Intel Core i9 13900H,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+63,TUF Gaming F17 FX707ZC4-HX067W Gaming Laptop,Asus,72990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,4GB NVIDIA GeForce RTX 3050,17.3,Windows 11 OS
+64,Inspiron 5430 Laptop,Dell,84490,16.0,1024.0,2304000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+65,Vivobook 15 X1502ZA-EJ741WS Laptop,Asus,60990,16.0,512.0,2073600.0,12th Gen Intel Core i7 12650H,Intel Iris Xe,15.6,Windows 11 OS
+66,INBook X2 Slim Series XL23 Laptop,Infinix,33990,16.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Integrated Iris Xe,14.0,Windows 11 OS
+67,VivoBook 14 X415EA-EK344WS Notebook,Asus,35990,16.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated Intel UHD,14.0,Windows 11 OS
+68,Aspire 7 A715-76G NH.QMFSI.004 Gaming Laptop,Acer,60990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce GTX 3050,15.6,Windows 11 OS
+69,Redmi Book 14 2023 Laptop,Xiaomi,43990,16.0,512.0,5184000.0,12th Gen Intel Core i5 12500H,Intel Iris Xe Graphics,14.0,Windows 11 OS
+70,Vivobook 16X 2023 K3605ZF-MB541WS Laptop,Asus,62990,16.0,512.0,2304000.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 2050,16.0,Windows 11 OS
+71,GF63 Thin 11UC-1294IN Gaming Laptop,MSI,65990,16.0,1024.0,2073600.0,11th Gen Intel Core i7 11800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+72,INBook Y1 Plus Neo XL30 Laptop,Infinix,23990,8.0,512.0,2073600.0,11th Gen Intel Celeron N5100,Intel Integrated UHD,15.6,Windows 11 OS
+73,TUF Gaming F15 FX506HC-HN362WS Gaming Laptop,Asus,61990,16.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+74,Inspiron 3525 Laptop,Dell,36990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 3 5425U,AMD Radeon Radeon Graphics,15.6,Windows 11 OS
+75,Vivobook 16X 2022 M1603QA-MB511WS Laptop,Asus,50970,16.0,512.0,2304000.0,5th Gen AMD Ryzen 5 5600H,AMD Radeon Vega 7 Graphics,16.0,Windows 11 OS
+76,Precision 5550 Laptop,Dell,184999,16.0,512.0,2304000.0,10th Gen Intel Core i7 10750H,4GB NVIDIA,15.6,Windows 10 OS
+77,Omen 16-XD0007ax Gaming Laptop,HP,109990,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,6GB NVIDIA GeForce RTX 4050,16.1,Windows 11 OS
+78,Pro Series Z ZEB-NBC 4S Laptop,Zebronics,42990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated,15.6,Windows 11 OS
+79,15s-fq5185TU Laptop,HP,39150,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,15.6,Windows 11 OS
+80,Swift Go NXKPZSI002 Laptop,Acer,92999,16.0,512.0,5184000.0,13th Gen Intel Core i5 13500H,Intel Integrated Iris Xe,14.0,Windows 11 OS
+81,Victus 16-s0095AX Gaming Laptop,HP,80990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,6GB NVIDIA GeForce RTX 3050,16.1,Windows 11 OS
+82,Victus 15-FB1001AX Gaming Laptop,HP,55850,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+83,Aspire Lite AL15-51 UN.431SI.288 Laptop,Acer,38990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Iris XE Graphics,15.6,Windows 11 OS
+84,Thin GF63 11UCX-1492IN Gaming Laptop,MSI,53990,16.0,1024.0,2073600.0,11th Gen Intel Core i5 11260H,GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+85,INBook X3 Slim XL422 Laptop,Infinix,38990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+86,Omen 16-xf0060AX Gaming Laptop,HP,139234,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+87,Thin GF63 11UC-1490IN Gaming Laptop,MSI,57990,16.0,1024.0,2073600.0,11th Gen Intel Core i5 11260H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+88,LOQ 2023 Gaming Laptop,Lenovo,89999,8.0,512.0,2073600.0,13th Gen Intel Core i5 13420H,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+89,One 14 Z8-415 ‎2023 Laptop,Acer,37990,16.0,512.0,2073600.0,11th Gen Intel Core i5  1135G7,Intel Iris Xe Graphics,14.0,Windows 11 OS
+90,VivoBook 14 X415EA-EK326WS Notebook,Asus,30990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated Intel UHD,14.0,Windows 11 OS
+91,G15-5530 GN5530D83M6002ORB1 Gaming Laptop,Dell,92990,16.0,512.0,2073600.0,13th Gen Intel Core i5 13450HX,6GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+92,15s-fr5009TU Laptop,HP,42990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+93,TUF Gaming F15 FX506HF-HN025W Gaming Laptop,Asus,59089,16.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+94,Victus 15-fa0998TX Gaming Laptop,HP,72999,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+95,Omen 16-n0123AX Gaming Laptop,HP,126742,16.0,1024.0,3686400.0,6th Gen AMD Ryzen 7  6800H,8GB NVIDIA GeForce RTX 3070 Ti,16.1,Windows 11 OS
+96,MacBook Air 15 2023 Laptop,Apple,126990,8.0,256.0,5368320.0,Apple M2,10-Core GPU,15.3,Mac OS
+97,Galaxy Book2 NP550XED-KA1IN 15 Laptop,Samsung,49990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD,15.6,Windows 11 OS
+98,Inspiron 5420 Laptop,Dell,74390,16.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,Intel Integrated UHD,14.0,Windows 11 OS
+99,Inspiron 3520 D560871WIN9B Laptop,Dell,52990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel UHD Graphics,15.6,Windows 11 OS
+100,IdeaPad Gaming 3 15IHU6 82K101EDIN Laptop,Lenovo,60990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11300H,4GB NVIDIA GeForce RTX 3050 Graphics,15.6,Windows 11 OS
+101,Omen 16-n0079AX Gaming Laptop,HP,98174,16.0,512.0,2073600.0,6th Gen AMD Ryzen 7  6800H,8GB AMD Radeon RX 6650M,16.1,Windows 11 OS
+102,E41-55 Laptop,Lenovo,18990,8.0,256.0,2073600.0,AMD Athlon Pro 3045B,AMD Radeon Graphics,14.0,Windows 11 OS
+103,VivoBook 15 X515EA-EJ522WS Laptop,Asus,38990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Integrated Iris Xe,15.6,Windows 11 OS
+104,14s-fq1092au Laptop,HP,41950,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon AMD,14.0,Windows 11 OS
+105,Mi Notebook Ultra Laptop,Xiaomi,46990,16.0,512.0,6400000.0,11th Gen Intel Core i5 11300H,Intel Iris Xe Graphics,15.6,Windows 10 OS
+106,Excelance CompBook Laptop,iBall,9999,2.0,32.0,1049088.0,Intel Atom Quad Core Z3735F,Intel HD Graphics,11.6,Windows 10 OS
+107,Vivobook 15 X1502ZA-EJ385WS Laptop,Asus,40990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1220P,Intel UHD Graphics,15.6,Windows 11 OS
+108,IdeaPad Gaming 3 82SB00V5IN Laptop,Lenovo,74990,8.0,512.0,2073600.0,6th Gen AMD Ryzen 7 6800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+109,ZEB-NBC 3S 2023 Laptop,Zebronics,33990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated,15.6,Windows 11 OS
+110,Pro Series Z ZEB-NBC 4S 2023 Laptop,Zebronics,39990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated,15.6,Windows 11 OS
+111,CX1101CMA-GJ0004 Chromebook,Asus,10990,4.0,32.0,1049088.0,Intel Celeron  N4020,Intel UHD Graphics 600,11.6,Chrome OS
+112,Katana 15 B13UDXK-1482IN Gaming Laptop,MSI,88990,32.0,1024.0,2073600.0,13th Gen Intel Core i5 13500H,6GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+113,15s-fy5007TU Laptop,HP,54990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD,15.6,Windows 11 OS
+114,ThinkBook 15 G5 21JFA00BIN Laptop,Lenovo,49990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon AMD,15.6,Windows 11 OS
+115,Vivobook 16 2023 X1605VA-MB947WS Laptop,Asus,80739,16.0,512.0,2304000.0,13th Gen Intel Core i9 13900H,Integrated Intel Iris Xe Graphics,16.0,Windows 11 OS
+116,Thinkpad E15 G4 21DJA0Y0IN Laptop,Lenovo,62990,16.0,512.0,2073600.0,12th Gen Intel Core i7 1255U,Intel Integrated Iris Xe,15.6,Windows 11 OS
+117,Victus 15-fa1132TX Laptop,HP,62990,8.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+118,Victus 15-fb1017AX Gaming Laptop,HP,69501,16.0,512.0,2073600.0,7th Gen Amd Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+119,IdeaPad Slim 5 14IAH8 83BF000UIN Laptop,Lenovo,59990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,Intel UHD Graphics,14.0,Windows 11 OS
+120,Victus 15-fb1015AX Gaming Laptop,HP,54990,8.0,512.0,2073600.0,7th Gen Amd Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+121,LOQ 15IRH8 82XV00F4IN 2023 Gaming Laptop,Lenovo,64990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+122,Modern 15 B12M-612IN Laptop,MSI,37729,16.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated Iris Xe,15.6,Windows 11 OS
+123,IdeaPad Gaming 3 82K2025MIN Laptop,Lenovo,50712,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+124,Modern 14 C11M-029IN Laptop,MSI,44990,16.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Integrated Iris Xe,14.0,Windows 11 OS
+125,CoreBook X Laptop,Chuwi,23990,8.0,512.0,2304000.0,10th Gen Intel Core i3 1005G1,Intel UHD Graphics,14.0,Windows 11 OS
+126,15s-ey2001AU Laptop,HP,49990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7   5700U,AMD Radeon Radeon,15.6,Windows 11 OS
+127,Pavilion 15-eg3079TU Laptop,HP,72990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1340p,Intel Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+128,IdeaPad Slim 3 82H803B6IN Laptop,Lenovo,52101,16.0,512.0,2073600.0,11th Gen Intel Core i7 1165G7,Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+129,INBook X2 Slim Series Laptop,Infinix,28990,8.0,512.0,2073600.0,11th Gen Intel Core i3  1115G4,Intel Integrated UHD Graphics,14.0,Windows 11 OS
+130,Pavilion 15s-fq5190TU Laptop,HP,69490,16.0,512.0,2073600.0,12th Gen Intel Core i7 1255U,Intel Iris Xe,15.6,Windows 11 OS
+131,Aspire 5 A515-58P NX.KHJSI.001 Gaming Laptop,Acer,39965,8.0,512.0,2073600.0,13th Gen Intel Core i3 1315U,Intel UHD Graphics,15.6,Windows 11 OS
+132,Aspire 5 14 A514-56GM 2023 Gaming Laptop,Acer,54990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,4GB NVIDIA GeForce RTX 2050,14.0,Windows 11 OS
+133,Vivobook 15 X1502ZA-EJ532WS Laptop,Asus,46999,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe,15.6,Windows 11 OS
+134,Vivobook S15 OLED 2023 S5504VA-MA543WS Laptop,Asus,83990,16.0,512.0,4665600.0,13th Gen Intel Core i5 13500H,Intel Integrated Iris Xe,15.6,Windows 11 OS
+135,Victus 15-fb0108AX Gaming Laptop,HP,51499,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB AMD Radeon RX 6500M Graphics,15.6,Windows 11 OS
+136,Vostro 3425 M552321WIN9S Laptop,Dell,50990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5625U,AMD Radeon Graphics,14.0,Windows 11 OS
+137,Chromebook 15a-na0012TU Laptop,HP,23990,4.0,128.0,1049088.0,Intel Celeron  N4500,Intel Integrated UHD Graphics,15.6,Chrome OS
+138,Aspire 3 A315-24P NX.KDESI.003 Laptop,Acer,27990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon Graphiics,15.6,Windows 11 OS
+139,Pavilion x360 14-ek1010TU Laptop,HP,79990,16.0,1024.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+140,Galaxy Book 3 NP750XFG-KA3IN Laptop,Samsung,84390,16.0,512.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+141,INBook Y1 Plus Laptop,Infinix,24990,8.0,256.0,2073600.0,10th Gen Intel Core i3 1005G1,Intel Integrated UHD,15.6,Windows 11 OS
+142,Galaxy Book 3 Ultra NP960XFH-XA1IN Laptop,Samsung,281990,32.0,1024.0,5184000.0,13th Gen Intel Core i9 13900H,NVIDIA GeForce RTX 4070,16.0,Windows 11 OS
+143,IdeaPad 1 15AMN7 82VG00EQIN Laptop,Lenovo,26590,8.0,512.0,1049088.0,AMD Athlon 7120U,AMD Radeon 610M Graphics,15.6,Windows 11 OS
+144,INBook X2 Slim Series XL23 2023 Laptop,Infinix,37990,16.0,1024.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Integrated Iris Xe,14.0,Windows 11 OS
+145,Vivobook Pro 15 M6500RC-HN741WS Laptop,Asus,71189,16.0,512.0,2073600.0,6th Gen AMD Ryzen 7 6800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+146,Victus 16-s0095AX Gaming Laptop,HP,85999,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,6GB NVIDIA GeForce RTX 3050,16.1,Windows 11 OS
+147,Yoga 7 82YM0074IN Laptop,Lenovo,93990,16.0,1024.0,5184000.0,7th Gen AMD Ryzen 7 7735U,AMD Radeon Graphics,14.0,Windows 11 OS
+148,Zenbook Flip 14 OLED UP5401ZA-KU541WS Laptop,Asus,84990,16.0,512.0,9216000.0,12th Gen Intel Core i5 12500H,Intel Iris Xe Graphics,14.0,Windows 11 OS
+149,Inspiron 3530 2023 Laptop,Dell,44190,8.0,1024.0,2073600.0,13th Gen Intel Core i3 1305U,Intel Integrated UHD,15.6,Windows 11 OS
+150,Predator 16 NH.QLUSI.005 Laptop,Acer,159990,16.0,1024.0,4096000.0,13th Gen Intel Core i9 13900HX,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+151,Victus 15-fb0134AX Gaming Laptop,HP,52990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB AMD Radeon RX 6500M Graphics,15.6,Windows 11 OS
+152,Aspire Lite 2023 AL15-51 Laptop,Acer,39990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Iris Xe Graphics,15.6,Windows 11 OS
+153,Inspiron 2023 14 5430 Laptop,Dell,73990,16.0,1024.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+154,IdeaPad Gaming 3 82K101L7IN Laptop,Lenovo,57500,16.0,512.0,2073600.0,11th Gen Intel Core i5 11320H,4GB NVIDIA GTX 1650,15.6,Windows 11 OS
+155,Vivobook Pro 15 M6500QF-HN521WS Laptop,Asus,59990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+156,Aspire 7 A715-76G UN.QMESI.004 Gaming Laptop,Acer,53990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+157,VivoBook 14 X415EA-EK326WS Notebook,Asus,33990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated Intel UHD,14.0,Windows 11 OS
+158,Inspiron 5630 Laptop,Dell,75990,16.0,512.0,4096000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,16.0,Windows 11 OS
+159,MacBook Air 15 2023 Laptop,Apple,144990,8.0,512.0,5368320.0,Apple M2,10-Core GPU,15.3,Mac OS
+160,Vivobook 15 X1502ZA-EJ542WS Laptop,Asus,60539,16.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,Intel Iris Xe,15.6,Windows 11 OS
+161,Vivobook 15 M1502QA-EJ742WS Laptop,Asus,56990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5800H,AMD Radeon,15.6,Windows OS
+162,Pavilion 15-eg3027TU Laptop,HP,75533,16.0,512.0,2073600.0,13th Gen Intel Core i5 1340p,Intel Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+163,G15-5530 GN553064GRM002ORB1 Gaming Laptop,Dell,74990,8.0,512.0,2073600.0,13th Gen Intel Core i5 13450HX,6GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+164,TUF Gaming A15 FA577NU-LP082W Gaming Laptop,Asus,94990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7735HS,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+165,ROG Strix G16 2023 G614JV-N4141WS Gaming Laptop,Asus,179990,16.0,1024.0,4096000.0,13th Gen Intel Core i9 13980HX,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+166,Vivobook 16X 2023 K3605ZC-MB541WS Laptop,Asus,77990,16.0,512.0,2304000.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 3050,16.0,Windows 11 OS
+167,15s-fr5009TU Laptop,HP,37990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+168,15-fd0013TU Laptop,HP,62990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Integrated,15.6,Windows 11 OS
+169,Predator Helios Neo 16 PHN16-71 2023 Gaming Laptop,Acer,129999,16.0,1024.0,4096000.0,13th Gen Intel Core i7 13700HX,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+170,Pavilion 15-eh2050AU Laptop,HP,52990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5625U,AMD Radeon Graphics,15.6,Windows 11 OS
+171,Predator Helios Neo 16 PHN16-71 Laptop,Acer,104990,16.0,512.0,2304000.0,13th Gen Intel Core i7 13700HX,6GB NVIDIA GeForce RTX 4050,16.0,Windows 11 OS
+172,Book Prime CloudPro002 Laptop,Realme,47999,8.0,512.0,3110400.0,11th Gen Intel Core i5 11320H,Intel Iris Xe Graphics,14.0,Windows 11 OS
+173,Predator Helios Neo 16 PHN16-71 Gaming Laptop,Acer,114499,16.0,1024.0,2304000.0,13th Gen Intel Core i7 13700HX,6GB NVIDIA GeForce RTX 4050,16.0,Windows 11 OS
+174,Pavilion 15-eg2017TU Laptop,HP,49990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+175,Vivobook 15 X1502ZA-EJ953WS Laptop,Asus,39990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Iris Xe,15.6,Windows 11 OS
+176,Nitro 5 AN515-47 2023 Gaming Laptop,Acer,68990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+177,Nitro 5 AN515-47 Gaming Laptop,Acer,79990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7735HS,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+178,GF63 Thin 11UC-1293IN Gaming Laptop,MSI,66490,16.0,512.0,2073600.0,11th Gen Intel Core i7 11800H,4GB NVIDIA Geforce RTX 3050,15.6,Windows 11 OS
+179,Vivobook S14 Flip 2022 TN3402QA-LZ741WS Laptop,Asus,69990,16.0,512.0,2304000.0,5th Gen AMD Ryzen 7 5800H,AMD Radeon Graphics,14.0,Windows 11 OS
+180,Vivobook S15 OLED 2023 S5504VA-MA543WS Laptop,Asus,86490,16.0,512.0,4665600.0,13th Gen Intel Core i5 13500H,Intel Integrated Iris Xe,15.6,Windows 11 OS
+181,15-fc0025AU Laptop,HP,32790,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,15.6,Windows 11 OS
+182,ROG Zephyrus Duo 16,Asus,429990,32.0,2048.0,9216000.0,7th Gen AMD Ryzen 9  7945HX,16GB NVIDIA GeForce RTX 4090,16.0,Windows 11 OS
+183,Vostro 3425 M552321WIN9S Laptop,Dell,49990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5625U,AMD Radeon Graphics,14.0,Windows 11 OS
+184,Modern 14 C7M-062IN Laptop,MSI,43990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon AMD,14.0,Windows 11 OS
+185,Modern 14 C11M-030IN Laptop,MSI,36990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Integrated Iris Xe,14.0,Windows 11 OS
+186,Sword 15 A12VF-401IN Gaming Laptop,MSI,102990,16.0,1024.0,2073600.0,12th Gen Intel Core i7 12650H,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+187,Extensa 15 EX215-33 Laptop,Acer,29990,8.0,256.0,2073600.0,Intel Core i3 N305,Intel Integrated UHD,15.6,Windows 11 OS
+188,Pavilion x360 14-ek1010TU Laptop,HP,77889,16.0,1024.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+189,Galaxy Book 3 NP750XFG-KB1IN Laptop,Samsung,69990,8.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+190,Galaxy Book 3 360 NP750QFG-KA3IN Laptop,Samsung,138990,16.0,1024.0,2073600.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,15.6,Windows 11 OS
+191,Victus 15-fb0777AX Gaming Laptop,HP,51990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB AMD Radeon RX 6500M Graphics,15.6,Windows 11 OS
+192,Galaxy Book 3 Laptop,Samsung,69990,8.0,512.0,2073600.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+193,Vivobook Pro 15 OLED M3500QC-L1502WS Gaming Laptop,Asus,72990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+194,Vivobook 16X M1603QA-MB512WS Laptop,Asus,50400,16.0,512.0,2304000.0,5th Gen AMD Ryzen 5 5600H,AMD Radeon Vega 7,16.0,Windows 11 OS
+195,Latitude 3430 Laptop,Dell,108000,8.0,512.0,1049088.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+196,Inspiron 3520 Laptop,Dell,50990,8.0,1024.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+197,IdeaPad Gaming 3 15IHU6 82K101EDIN Laptop,Lenovo,47990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11300H,4GB NVIDIA GeForce RTX 3050 Graphics,15.6,Windows 11 OS
+198,Omen 16-n0079AX Gaming Laptop,HP,91990,16.0,512.0,2073600.0,6th Gen AMD Ryzen 7  6800H,8GB AMD Radeon RX 6650M,16.1,Windows 11 OS
+199,One 14 Z2-493 Laptop,Acer,25449,8.0,256.0,1049088.0,3rd Gen AMD Ryzen 3  3250U,AMD Radeon Graphics,14.0,Windows 11 OS
+200,Aspire 3 A315-59 Laptop,Acer,33207,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Graphics,15.6,Windows 11 OS
+201,Pavilion 15s-FR5007TU Laptop,HP,52990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe,15.6,Windows 11 OS
+202,Vostro 3425 Laptop,Dell,42434,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5625U,AMD Radeon Graphics,14.0,Windows 11 OS
+203,15s-du3614TU Laptop,HP,42200,8.0,1024.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows 11 OS
+204,Pavilion 15s-eq2182AU Laptop,HP,41990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon Graphics,15.6,Windows 11 OS
+205,TUF Gaming A15 2022 FA577RE-HN055WS Gaming Laptop,Asus,80900,16.0,512.0,2073600.0,6th Gen AMD Ryzen 7 6800H,4GB NVIDIA GeForce RTX 3050 Ti,15.6,Windows 11 OS
+206,Vivobook 15 Touch X515EA-EZ311WS Laptop,Asus,38990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD Graphics,15.6,Windows 11 OS
+207,MacBook Air 2022 Laptop,Apple,135990,8.0,512.0,4259840.0,Apple M2 Apple M2 Chip,10-Core GPU,13.6,Mac OS
+208,Vivobook S15 OLED K3502ZA-L501WS Laptop,Asus,72490,16.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,Intel Iris XE Graphics,15.6,Windows 11 OS
+209,Vivobook S14 OLED S3402ZA-KM501WS Laptop,Asus,72490,16.0,512.0,5184000.0,12th Gen Intel Core i5 12500H,Intel Iris Xe Graphics,14.0,Windows 11 OS
+210,Inspiron 3511 Laptop,Dell,35990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.56,Windows 11 OS
+211,Mi Notebook Ultra Laptop,Xiaomi,45989,8.0,512.0,6400000.0,11th Gen Intel Core i5 11300H,Intel Iris Xe Graphics,15.6,Windows 10 OS
+212,Inspiron 3501 Laptop,Dell,52500,8.0,1024.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Iris Xe Graphics,15.6,Windows 10 OS
+213,Latitude 3410 Laptop,Dell,59999,8.0,512.0,1049088.0,10th Gen Intel Core i5 10210U,Intel HD,14.0,Ubuntu OS
+214,MacBook Air 2020 MGN73HN Laptop,Apple,112990,8.0,512.0,4096000.0,Apple M1 Apple M1 Chip,Apple M1 Integrated Graphics,13.3,Mac OS
+215,Pura NS14A6 Laptop,Avita,21990,8.0,512.0,2073600.0,3rd Gen AMD Ryzen 5  3500U,AMD Radeon Vega 8,14.0,Windows 10 OS
+216,MacBook Pro 16 Laptop,Apple,201498,32.0,2048.0,5898240.0,9th Gen Intel Core i9,4GB Radeon Pro 5500M,16.0,Mac Catalina OS
+217,Victus 15-fa1145TX Gaming Laptop,HP,64990,16.0,1024.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+218,Thinkpad E14 G4 21E3S00P00 Laptop,Lenovo,68999,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,14.0,DOS OS
+219,Ideapad Gaming 3 15ARH7 82SB00QJIN Laptop,Lenovo,60990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+220,Inspiron 3520 IN3520P9K46002ORS1 Laptop,Dell,40990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,15.6,Windows 11 OS
+221,LOQ 15APH8 82XT004KIN Gaming Laptop,Lenovo,107690,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+222,V15 G4 Laptop,Lenovo,25490,8.0,512.0,2073600.0,AMD Athlon Silver 7120U,AMD Radeon 610M,15.6,Windows 11 OS
+223,15s-FR5012TU Laptop,HP,38999,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+224,INBook Y1 Plus 15 XL28 Laptop,Infinix,59990,8.0,512.0,2073600.0,10th Gen Intel Core i5 1035G1,Intel Integrated UHD,15.6,Windows 11 OS
+225,Victus 15-FA1098TX Laptop,HP,60990,8.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+226,Victus 15-fb1002AX Gaming Laptop,HP,55500,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+227,Pavilion Plus ‎16-ab0456TX Laptop,HP,124999,16.0,1024.0,4096000.0,13th Gen Intel Core i7 13700H,6GB NVIDIA GeForce RTX 3050,16.0,Windows 11 OS
+228,Omen 16-XD0007ax Gaming Laptop,HP,104990,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,6GB NVIDIA GeForce RTX 4050,16.1,Windows 11 OS
+229,Katana 15 B12VGK-1295IN Gaming Laptop,MSI,136990,16.0,1024.0,2073600.0,12th Gen Intel Core i7 12650H,8GB NVIDIA GeForce RTX 4070,15.6,Windows 11 OS
+230,Legion Slim 5 82Y9009JIN Gaming Laptop,Lenovo,131990,16.0,1024.0,4096000.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+231,IdeaPad Slim 3 14ITL6 82H701N3IN Laptop,Lenovo,36490,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,14.0,Windows 11 OS
+232,ROG Flow X13 GV302XV-MU016WS Gaming Laptop,Asus,188752,16.0,1024.0,4096000.0,7th Gen AMD Ryzen 9  7940HS,8GB NVIDIA GeForce RTX 4060,13.4,Windows 11 OS
+233,250 G9 7M657PA Laptop,HP,36999,8.0,512.0,1049088.0,12th Gen Intel Core i3 1215U,Intel Integrated,15.6,Windows 11 OS
+234,Yoga 7 82YL0095IN Laptop,Lenovo,92890,16.0,1024.0,5184000.0,13th Gen Intel Core i5 1340P,Integrated Intel Iris Xe Graphics,14.0,Windows 11 OS
+235,Inspiron 7430 2 in 1 2023 Laptop,Dell,57990,8.0,256.0,2304000.0,13th Gen Intel Core i3 1315U,Intel UHD Graphics,14.0,Windows 11 OS
+236,15s-fy5007TU Laptop,HP,51999,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD,15.6,Windows 11 OS
+237,Yoga Slim 6 83E00006IN Laptop,Lenovo,79990,16.0,512.0,2304000.0,13th Gen Intel Core i5 13500H,Intel Integrated Iris Xe,14.0,Windows 11 OS
+238,IdeaPad Flex 5 14IRU8 82Y00051IN Laptop,Lenovo,76890,16.0,512.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+239,IdeaPad 1 15ALC7 82R400BSIN Laptop,Lenovo,37790,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon,15.6,Windows 11 OS
+240,One 11 Z8-284 UN.013SI.033 Laptop,Acer,17990,8.0,128.0,1049088.0,Intel Celeron N4500,Intel Integrated UHD,11.6,Windows 11 OS
+241,15s-fy5006TU Laptop,HP,38990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,15.6,Windows 11 OS
+242,IdeaPad 3 15ITL6 82H803LJIN Laptop,Lenovo,41990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Iris Xe Graphics,15.6,Windows 11 OS
+243,IdeaPad Slim 5 82XD005RIN Laptop,Lenovo,68990,16.0,512.0,2304000.0,13th Gen Intel Core i5 13420H,Integrated Intel Iris Xe Graphics,14.0,Windows 11 OS
+244,Pavilion 14-dv2153TU Laptop,HP,69990,16.0,1024.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+245,TravelMate P2 TMP214-53 Business Laptop,Acer,56990,16.0,1024.0,2073600.0,11th Gen Intel Core i7 1165G7,Intel Integrated Iris Xe,14.0,Windows 11 OS
+246,ROG Strix G15 G513RC-HN251WS Gaming Laptop,Asus,89990,16.0,1024.0,2073600.0,6th Gen AMD Ryzen 7  6800H,4GB NVIDIA GeForce RTX RTX 3050,15.6,Windows 11 OS
+247,Thin GF63 12UC-846IN Gaming Laptop,MSI,62990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+248,IdeaPad Slim 3 82RK00VWIN Laptop,Lenovo,37990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+249,IdeaPad Gaming 3 82SB00V4IN Laptop,Lenovo,58990,8.0,512.0,2073600.0,6th Gen AMD Ryzen 5 6600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+250,IdeaPad 1 15AMN7 82VG00EQIN Laptop,Lenovo,26990,8.0,512.0,1049088.0,AMD Athlon 7120U,AMD Radeon 610M Graphics,15.6,Windows 11 OS
+251,ROG Strix G16 2023 G614JJ-N3088WS Gaming Laptop,Asus,94990,16.0,1024.0,2304000.0,13th Gen Intel Core i5 13450HX,6GB NVIDIA GeForce RTX 3050,16.0,Windows 11 OS
+252,ROG Strix G17 G713RC-HX109WS Gaming Laptop,Asus,86189,16.0,512.0,2073600.0,6th Gen AMD Ryzen 7 6800H,4GB NVIDIA GeForce RTX 3050,17.3,Windows 11 OS
+253,FreeBook Laptop,Chuwi,37990,12.0,512.0,3393024.0,12th Gen Intel Core i3 1215U,Intel Integrated Intel UHD Graphics,13.5,Windows 11 OS
+254,Legion Slim 7 16IRH8 82Y3007QIN Gaming Laptop,Lenovo,194990,16.0,1024.0,6400000.0,13th Gen Intel Core i9 13900H,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+255,IdeaPad Gaming 3 15IHU6 82K101PBIN Laptop,Lenovo,51990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11320H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+256,IdeaPad Slim 3 82H803U0IN Laptop,Lenovo,31990,8.0,256.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+257,Aspire 5 A515-58M NX.KHFSI.003 Gaming Laptop,Acer,41990,8.0,512.0,2073600.0,13th Gen Intel Core i3 1305U,Intel UHD Graphics,15.6,Windows 11 OS
+258,VivoBook 15 X1500EA-EJ311W Laptop,Asus,31990,8.0,256.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows 11 OS
+259,Vivobook 15 X1504ZA-NJ542WS Laptop,Asus,51390,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+260,Pavilion 15-eg3018TU Laptop,HP,76900,16.0,1024.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+261,15s-fq3066TU Laptop,HP,27890,8.0,512.0,1049088.0,Intel Celeron N4500,Intel Integrated UHD,15.6,Windows 11 OS
+262,IdeaPad 3 82H803HRIN Laptop,Lenovo,56990,16.0,512.0,2073600.0,11th Gen Intel Core i7 1165G7,Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+263,Vivobook Pro 15 M6500QC-HN751WS Laptop,Asus,73990,16.0,1024.0,2073600.0,5th Gen AMD Ryzen 7 5800HS,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+264,255 G9 841W6PA Laptop,HP,24999,8.0,512.0,1049088.0,3rd Gen AMD Ryzen 3  3250U,AMD Radeon Graphics,15.6,DOS 3.0 OS
+265,255 G8 7J035AA Laptop,HP,33999,8.0,256.0,2073600.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon,15.6,Windows 11 OS
+266,IdeaPad Slim 5 16IAH8 83BG000PIN Laptop,Lenovo,61990,16.0,512.0,2304000.0,12th Gen Intel Core i5 12450H,Intel UHD Graphics,16.0,Windows 11 OS
+267,Victus15-fb0147AX Gaming Laptop,HP,47990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB AMD Radeon AMD Radeon RX 6500M,15.6,Windows 11 OS
+268,TUF Gaming F15  FX506HF-HN075W Gaming Laptop,Asus,53990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11260H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+269,15S-EQ1550AU Laptop,HP,31890,8.0,512.0,2073600.0,3rd Gen AMD Ryzen 3  3250U,AMD Radeon Graphics,15.6,Windows 11 OS
+270,Vivobook Pro 15 M6500QF-HN541WS Creator Laptop,Asus,62390,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB NVIDIA GeForce GTX 2050,15.6,Windows 11 OS
+271,Nuvobook Pro Laptop,Wings,49990,16.0,512.0,2073600.0,11th Gen Intel Core i7 1165G7,Intel Graphics,14.0,Windows 11 OS
+272,Nuvobook S1 Laptop,Wings,29990,8.0,256.0,2073600.0,11th Gen Intel Core i3 1125G4,Intel Graphics,15.6,Windows 11 OS
+273,INBook X3 Slim Series XL422 Laptop,Infinix,49990,16.0,512.0,2073600.0,12th Gen Intel Core i7 1255U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+274,Vostro 3430 Laptop,Dell,43490,8.0,512.0,2073600.0,13th Gen Intel Core i3 1305U,Intel UHD Graphics,14.0,Windows 11 OS
+275,Inspiron 7430 2 in 1 Touch Laptop,Dell,95640,16.0,1024.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+276,Omen 16-xf0060AX Gaming Laptop,HP,125990,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+277,Pavilion 15-eg3017TU Laptop,HP,72990,16.0,1024.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+278,Thin GF63 11UCX-1497IN Gaming Laptop,MSI,47990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11260H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+279,Victus  15-fa1060TX  Gaming Laptop,HP,99999,16.0,512.0,2073600.0,13th Gen Intel Core i5 13500H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+280,Vivobook 15 X1504ZA-NJ325WS Laptop,Asus,40990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Integrated Intel UHD Graphics,15.6,Windows 11 OS
+281,Zenbook Flip 14 OLED UP5401ZA-KU741WS Laptop,Asus,94990,16.0,512.0,9216000.0,12th Gen Intel Core i7 12700H,Intel Integrated Iris Xe,14.0,Windows 11 OS
+282,VivoBook 15 X1500EA-EJ326WS Laptop,Asus,37990,8.0,512.0,2073600.0,11th Gen intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+283,LOQ 15IRH8 82XV00F4IN 2023 Gaming Laptop,Lenovo,73990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+284,LOQ 15APH8 82XT009CIN 2023 Gaming Laptop,Lenovo,109990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+285,Nitro 5 AN515-58 NH.QFHSI.008 Gaming Laptop,Acer,65999,8.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+286,Aspire Lite AL15-51 2023 Laptop,Acer,35990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Graphics,15.6,Windows 11 OS
+287,Vivobook 15 X1504ZA-NJ321WS Laptop,Asus,37980,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Integrated Intel UHD Graphics,15.6,Windows 11 OS
+288,Modern 15 B11M-061IN Laptop,MSI,40789,16.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Integrated Iris Xe,15.6,Windows 11 OS
+289,Alienware M18 R1 2023 Gaming Laptop,Dell,450039,64.0,1024.0,5760000.0,13th Gen Intel Core i9 13980HX,16GB NVIDIA GeForce RTX 4090,18.0,Windows 11 OS
+290,Vivobook 14X K3405ZFB-KM752WS Laptop,Asus,89990,16.0,1024.0,5184000.0,12th Gen Intel Core i7 12650H,4GB NVIDIA GeForce RTX 2050,14.0,Windows 11 OS
+291,Aspire 5 15 A515-58M Gaming Laptop,Acer,56990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,4GB NVIDIA GeForce RTX2050,15.6,Windows 11 OS
+292,NU14A1 Laptop,Walker,16990,4.0,128.0,2073600.0,Intel Celeron  N4020,Intel Integrated UHD Graphics,14.1,Windows 11 OS
+293,Swift 3 OLED SF314-71 NX.K9PSI.003 Laptop,Acer,54990,8.0,512.0,5184000.0,12th Gen Intel Core i5 12500H,Intel Integrated Iris Xe,14.0,Windows 11 OS
+294,Inspiron 14 5430 2023 Laptop,Dell,67000,8.0,1024.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+295,ThinkBook 15 21JF002CIN Laptop,Lenovo,34499,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7330U,AMD Radeon AMD,15.6,DOS OS
+296,Pavilion Plus ‎14-eh1047TU Laptop,HP,107763,16.0,512.0,5184000.0,13th Gen Intel Core i7 13700H,Intel Integrated Iris Xe,14.0,Windows 11 OS
+297,Inspiron 7430 2 in 1 Laptop,Dell,61490,8.0,1024.0,2304000.0,13th Gen Intel Core i3 1315U,Intel UHD Graphics,14.0,Windows 11 OS
+298,Pavilion Plus 14-eh1022TU Laptop,HP,80490,16.0,512.0,3136000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+299,Ideapad Gaming 3 82SB00NXIN Laptop,Lenovo,57990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+300,Modern 14 C11M-029IN Laptop,MSI,39990,16.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Integrated Iris Xe,14.0,Windows 11 OS
+301,Ideapad Flex 5i 14IAU7 82R70067IN Laptop,Lenovo,53990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,14.0,Windows 11 OS
+302,Inspiron 3535 Laptop,Dell,44500,8.0,512.0,2073600.0,7th Gen Amd Ryzen 5 7520U,AMD Radeon Graphics,15.6,Windows 11 OS
+303,14-hr0000AU Laptop,HP,48999,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,14.0,Windows 11 OS
+304,Envy 15-fe0032TU Laptop,HP,116990,16.0,1024.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Iris X Graphics,15.6,Windows 11 OS
+305,Aspire 3 NX.KDESI.008 Laptop,Acer,30990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,15.6,Windows 11 OS
+306,IdeaPad Slim 3 82XQ008EIN Laptop,Lenovo,33790,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon 610M Graphics,15.6,Windows 11 OS
+307,Thin GF63 11UCX-1476IN Gaming Laptop,MSI,51990,16.0,512.0,2073600.0,11th Gen Intel Core i5 11260H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+308,Vivobook 15 X1504ZA-NJ521WS Laptop,Asus,45990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+309,Thin GF63 11UC-1475IN Gaming Laptop,MSI,51990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11260H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+310,V15 G3 IAP 82TTA00UIH Laptop,Lenovo,34099,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,15.6,DOS OS
+311,Pavilion 15-EH3101AU Laptop,HP,65600,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon Vega 8 Graphics,15.6,Windows 11 OS
+312,V15 G4 82YU00W6IN Laptop,Lenovo,27990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon Graphics,15.6,DOS OS
+313,V14 G3 IAP Laptop,Lenovo,46990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD,14.0,Windows 11 OS
+314,‎G16-7630 2023 Gaming Laptop,Dell,161590,16.0,1024.0,4096000.0,13th Gen Intel Core i7 13650HX,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+315,Inspiron 7430 IC7430FD64T001ORS1 Laptop,Dell,98990,16.0,512.0,2304000.0,13th Gen Intel Core i7 1355U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+316,Legion 5 Pro 2023 Gaming Laptop,Lenovo,172990,32.0,1024.0,4096000.0,13th Gen Intel Core i7 13700H,16GB NVIDIA GeForce RTX 4090,16.0,Windows 11 OS
+317,One 14 Z8-415UN.599SI.009 Laptop,Acer,25990,8.0,256.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Iris Xe Graphics,14.0,Windows 11 OS
+318,Victus 15-fb0136AX Gaming Laptop,HP,61990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+319,Zenbook 14X OLED 2023 UM5401QA-KM751WS Laptop,Asus,76990,16.0,1024.0,5184000.0,5th Gen AMD Ryzen 7 5800HS,AMD Radeon AMD,14.0,Windows 11 OS
+320,G15-5530 Gaming Laptop,Dell,126790,16.0,512.0,2073600.0,13th Gen Intel Core i7 13650HX,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+321,ROG Flow Z13 2023 GZ301VV-MU014WS Gaming Laptop,Asus,209990,16.0,1024.0,4096000.0,13th Gen Intel Core i9 13900H,8GB NVIDIA GeForce RTX 4060,13.4,Windows 11 OS
+322,ROG Strix G16 2023 G614JI-N4151WS Gaming Laptop,Asus,209990,16.0,1024.0,4096000.0,13th Gen Intel Core i9 13980HX,8GB NVIDIA GeForce RTX 4070,16.0,Windows 11 OS
+323,ROG Strix G16 2023 G614JU-N3200WS Gaming Laptop,Asus,142990,16.0,1024.0,2304000.0,13th Gen Intel Core i7 13650HX,6GB NVIDIA GeForce RTX 4050,16.0,Windows 11 OS
+324,Vivobook Pro 15 OLED K6502VU-MA951WS Laptop,Asus,156990,16.0,1024.0,4665600.0,13th Gen Intel Core i9 13900H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+325,Vivobook 14X OLED 2023 K3405VCB-KM542WS Laptop,Asus,93980,16.0,512.0,5184000.0,13th Gen Intel Core i5 13500H,4GB NVIDIA Geforce RTX 3050,14.0,Windows 11 OS
+326,TUF Gaming F17 FX706HF-HX018W Laptop,Asus,53990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce RTX 2050,17.3,Windows 11 OS
+327,15s-fy5002TU Laptop,HP,51990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated Integrated,15.6,Windows 11 OS
+328,VivoBook 15 X515EA-EJ342WS Laptop,Asus,35990,16.0,512.0,2073600.0,11th Gen intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+329,15s-fy5003TU Laptop,HP,37990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,15.6,Windows 11 OS
+330,15-fc0030AU Laptop,HP,46490,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,15.6,Windows 11 OS
+331,15-eg3036TU Laptop,HP,90490,16.0,1024.0,2073600.0,13th Gen Intel Core i7 1360P,Intel Integrated Integrated,15.6,Windows 11 OS
+332,Victus 15-fb0122AX Gaming Laptop,HP,55990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+333,Vivobook Pro 16 OLED 2023 K6602VU-LZ952WS Laptop,Asus,159990,16.0,1024.0,6400000.0,13th Gen Intel Core i9 13900H,6GB NVIDIA GeForce RTX 4050,16.0,Windows 11 OS
+334,15-fd0011TU Laptop,HP,57990,8.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Integrated,15.6,Windows 11 OS
+335,Predator Helios Neo 16 NH.QLTSI.002 Laptop,Acer,104990,16.0,512.0,4096000.0,13th Gen Intel Core i7 13700HX,6GB NVIDIA GeForce RTX 4050,16.0,Windows 11 OS
+336,Predator Helios Neo 16 NH.QLTSI.001 Laptop,Acer,99990,16.0,512.0,2304000.0,13th Gen Intel Core i5 13500HX,6GB NVIDIA GeForce RTX 4050,16.0,Windows 11 OS
+337,Cyborg 15 A12UCX-264IN Gaming Laptop,MSI,80500,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB Nvidia GeForce RTX 2050,15.6,Windows 11 OS
+338,Vostro 3425 Laptop,Dell,37990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon Graphics,14.0,Windows 11 OS
+339,15-fc0026AU Laptop,HP,34250,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,15.6,Windows 11 OS
+340,Victus 15-fa1066TX Gaming Laptop,HP,109990,16.0,512.0,2073600.0,13th Gen Intel Core i7 13700H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+341,15s-fq2738TU Laptop,HP,33990,8.0,512.0,1049088.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD Graphics,15.6,Windows 11 OS
+342,Zenbook S13 OLED 2023 UX5304VA-NQ542WS Laptop,Asus,79990,16.0,512.0,5184000.0,13th Gen Intel Core i5 1335U,Intel Integrated Intel Iris Xe Graphics,13.3,Windows 11 OS
+343,Vivobook 15 2023 X1502VA-NJ541WS Laptop,Asus,64990,16.0,512.0,2073600.0,13th Gen Intel Core i5 13500H,Integrated Intel iris Xe Graphics,15.6,Windows 11 OS
+344,Vivobook S15 OLED 2023 S5504VA-MA953WS Laptop,Asus,109990,16.0,1024.0,4665600.0,13th Gen Intel Core i9 13900H,Intel Integrated Iris Xe,15.6,Windows 11 OS
+345,Bravo 15 B5ED-035IN Gaming Laptop,MSI,62990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5800H,4GB AMD Radeon RX6500M,15.6,Windows 11 OS
+346,MateBook D14 2023 Laptop,Huawei,58999,16.0,512.0,2304000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+347,Titan GT77 HX 13VH-093IN Gaming Laptop,MSI,420000,64.0,2048.0,8294400.0,13th Gen Intel Core i9 13980HX,12GB NVIDIA GeForce RTX 4080,17.3,Windows 11 OS
+348,E41-55 Laptop,Lenovo,23990,8.0,256.0,2073600.0,3rd Gen AMD Athlon Silver 3050U,AMD Radeon Graphics,14.0,Windows 11 OS
+349,15-fc0028AU Laptop,HP,42999,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,15.6,Windows 11 OS
+350,15s-eq2223AU Laptop,HP,38861,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon AMD,15.6,Windows 11 OS
+351,V15 G3 82TTA00VIH Laptop,Lenovo,33590,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,15.6,Windows 11 OS
+352,Chromebook 15a-na0012TU Laptop,HP,15990,4.0,128.0,1049088.0,Intel Celeron  N4500,Intel Integrated UHD Graphics,15.6,Chrome OS
+353,Vivobook Go 14 2023 E1404FA-NK322WS Laptop,Asus,33980,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,14.0,Windows 11 OS
+354,Nitro 5 AN515-47 NH.QL3SI.001 Gaming Laptop,Acer,78400,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+355,Vivobook Pro 15 M6500QC-HN742WS Laptop,Asus,79990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+356,Aspire 5 UN.K3JSI.004 Laptop,Acer,47990,12.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphic,15.6,Windows 11 OS
+357,Vivobook Pro 15 M6500QC-HN542WS Laptop,Asus,74990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+358,Modern 15 B13M-291IN Laptop,MSI,45889,8.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Iris Xe,15.6,Windows 11 OS
+359,Zenbook 14 OLED 2023 UM3402YA-KM741WS Laptop,Asus,90990,16.0,512.0,5184000.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon AMD,14.0,Windows 11 OS
+360,Vivobook Go 15 OLED 2023 E1504FA-LK521WS Laptop,Asus,50990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,15.6,Windows 11 OS
+361,Galaxy Book 3 NP750XFG-KA2IN Laptop,Samsung,74990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+362,INBook Y1 Plus XL28 Laptop,Infinix,25990,8.0,512.0,2073600.0,10th Gen Intel Core i3 1005G1,Intel Integrated UHD,15.6,Windows 11 OS
+363,Galaxy Book 3 360 13 NP730QFG-KA3IN Laptop,Samsung,133990,16.0,1024.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Iris Xe Graphics,13.3,Windows 11 OS
+364,Galaxy Book 3 Pro NP960XFG-KC2IN Laptop,Samsung,165990,16.0,1024.0,5184000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,16.0,Windows 11 OS
+365,Galaxy Book 3 Pro 360 NP960QFG-KA1IN Laptop,Samsung,163990,16.0,512.0,5184000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,16.0,Windows 11 OS
+366,Galaxy Book 3 360 13 NP730QFG-KA2IN Laptop,Samsung,109990,16.0,512.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Iris Xe Graphics,13.3,Windows 11 OS
+367,Galaxy Book 3 Pro 14 NP940XFG-KC4IN Laptop,Samsung,139990,16.0,512.0,5184000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+368,Galaxy Book 3 360 13 NP730QFG-KA1IN Laptop,Samsung,109990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,13.3,Windows 11 OS
+369,Galaxy Book 3 Pro NP960XFG-KC1IN Laptop,Samsung,149990,16.0,512.0,5184000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,16.0,Windows 11 OS
+370,Galaxy Book 3 Pro 360 NP960QFG-KA3IN Laptop,Samsung,179990,16.0,1024.0,5184000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,16.0,Windows 11 OS
+371,Galaxy Book 3 Pro 360 NP960QFG-KA2IN Laptop,Samsung,155990,16.0,512.0,5184000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,16.0,Windows 11 OS
+372,Galaxy Book 3 Ultra Laptop,Samsung,229900,32.0,512.0,5184000.0,13th Gen Intel Core i9 13900H,NVIDIA GeForce RTX 4070,16.0,Windows 11 OS
+373,V15 ‎82C70005UK Laptop,Lenovo,35990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon Graphics,15.6,Windows 11 OS
+374,15s-fq2717TU Laptop,HP,37990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+375,14s-dq2649TU Laptop,HP,34999,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,14.0,Windows 11 OS
+376,MacBook Pro 14 inch Laptop,Apple,290990,32.0,1024.0,5939136.0,Apple M2 Max M2 Max,30-core GPU,14.2,Mac OS
+377,MacBook Pro 14 inch Laptop,Apple,234990,16.0,1024.0,5939136.0,Apple M2 Pro M2 Pro,19-core GPU,14.2,Mac OS
+378,Pavilion Plus 14-eh0037TU Laptop,HP,82799,16.0,512.0,5184000.0,12th Gen Intel Core i5 12500H,Intel Integrated Iris Xe,14.0,Windows 11 OS
+379,Vostro 3425 D552308WIN9B Laptop,Dell,31790,8.0,256.0,2073600.0,5th Gen AMD Ryzen 3  5425U,AMD Radeon AMD,14.0,Windows 11 OS
+380,IdeaPad Gaming 3 15ACH6 82K2022XIN Laptop,Lenovo,60990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 7  5800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+381,Thin GF63 12VF-268IN Laptop,MSI,86990,16.0,1024.0,2073600.0,12th Gen Intel Core i5 12450H,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+382,Vostro 3420 Laptop,Dell,52990,16.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Graphics,14.0,Windows 11 OS
+383,Vostro 3425 Laptop,Dell,38990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon Graphics,14.0,Windows 11 OS
+384,Vivobook Go 15 OLED 2023 E1504FA-LK545WS Laptop,Asus,52558,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,15.6,Windows 11 OS
+385,VivoBook 14 X1400EA-EK322WS Notebook,Asus,31990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated Intel UHD,14.0,Windows 11 OS
+386,15-fc0026AU Laptop,HP,34499,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,15.6,Windows 11 OS
+387,Zenbook 14 OLED 2023 UX3402VA-KN541WS Laptop,Asus,94490,16.0,512.0,5184000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+388,15s-fq2738TU Laptop,HP,33800,8.0,512.0,1049088.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD Graphics,15.6,Windows 11 OS
+389,Galaxy Book 3  NP750XFG-KB2IN Laptop,Samsung,74390,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+390,Zenbook 14 Flip OLED 2023 UP3404VA-KN542WS Laptop,Asus,104490,16.0,512.0,5184000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+391,Vivobook S15 OLED 2023 S5504VA-MA953WS Laptop,Asus,105739,16.0,1024.0,4665600.0,13th Gen Intel Core i9 13900H,Intel Integrated Iris Xe,15.6,Windows 11 OS
+392,Thinkpad E15 21E6S05A00 Laptop,Lenovo,45500,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+393,Vivobook Go 15 OLED 2023 E1504FA-LK541WS Laptop,Asus,50760,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,15.6,Windows 11 OS
+394,Vivobook Go 14 2023 E1404FA-NK542WS Laptop,Asus,49990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,14.0,Windows 11 OS
+395,Vivobook Go 14 2023 E1404FA-NK322WS Laptop,Asus,33199,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,14.0,Windows 11 OS
+396,Vivobook Pro 15 M6500QC-HN742WS Laptop,Asus,70990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+397,Nitro 5 AN515-47 NH.QL3SI.001 Gaming Laptop,Acer,64990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+398,Vivobook 16 2023 M1605YA-MB541WS Laptop,Asus,59990,16.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon AMD,16.0,Windows 11 OS
+399,Zenbook 14 OLED 2023 UM3402YA-KM741WS Laptop,Asus,88990,16.0,512.0,5184000.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon AMD,14.0,Windows 11 OS
+400,Vivobook Go 15 2023 E1504FA-NJ522WS Laptop,Asus,44990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,15.6,Windows 11 OS
+401,Pavilion Aero 13-be2047AU Laptop,HP,77990,16.0,1024.0,2304000.0,7th Gen AMD Ryzen 7 7735U,AMD Radeon AMD,13.3,Windows 11 OS
+402,Vivobook 16 2023 M1605YA-MB741WS Laptop,Asus,70990,16.0,512.0,2304000.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon AMD,16.0,Windows 11 OS
+403,IdeaPad  82K2022TIN Gaming Laptop,Lenovo,55990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+404,Megabook T1 Laptop,Tecno,43999,16.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel UHD Graphics,15.6,Windows 11 OS
+405,Aspire 3 A315-24P NX.KDESI.004 Laptop,Acer,37990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon Graphiics,15.6,Windows 11 OS
+406,Victus 15-fb0106AX Gaming Laptop,HP,64990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+407,IdeaPad Slim 1 82VG009MIN Laptop,Lenovo,32990,8.0,512.0,2073600.0,AMD Ryzen 3 7320U,AMD Radeon Graphics,15.6,Windows 11 OS
+408,Galaxy Book 3 Pro 360 NP960QFG-KA3IN Laptop,Samsung,179490,16.0,1024.0,5184000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,16.0,Windows 11 OS
+409,Zero Book Series ZL12 Laptop,Infinix,56990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,Intel Integrated Iris Xe,15.6,Windows OS
+410,Victus 16-d0310TX Gaming Laptop,HP,56990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce GTX 1650,16.1,Windows 11 OS
+411,VivoBook 15 X1500EA-EJ3381WS Laptop,Asus,34990,8.0,512.0,2073600.0,11th Gen intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+412,Pavilion Plus 14-eh0037TU Laptop,HP,83249,16.0,512.0,5184000.0,12th Gen Intel Core i5 12500H,Intel Integrated Iris Xe,14.0,Windows 11 OS
+413,Vostro 3420 Laptop,Dell,57990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel UHD Graphics,14.0,Windows 11 OS
+414,Envy x360 13-bf0121TU  Laptop,HP,85490,16.0,512.0,2304000.0,12th Gen Intel Core i5 1230U,Intel Integrated Iris Xe,13.4,Windows 11 OS
+415,Vostro 3520 Laptop,Dell,55890,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+416,Vivobook 15 X1502ZA-EJ381WS Laptop,Asus,40689,8.0,512.0,2073600.0,12th Gen Intel Core i3 1220P,Intel UHD Graphics,15.6,Windows 11 OS
+417,Aspire 5 A515-57 2022 Laptop,Acer,48990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphic,15.6,Windows 11 OS
+418,Pavilion 14-dv2014TU Laptop,HP,66648,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD Graphics,14.0,Windows 11 OS
+419,Aspire 5 A515-57 NX.K2VSI.002 Laptop,Acer,36990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,15.6,Windows 11 OS
+420,G5 KE RC55KE Laptop,Gigabyte,74990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,6GB NVIDIA GeForce RTX 3060,15.6,Windows 11 OS
+421,Legion 5 Pro 82RF00E1IN Gaming Laptop,Lenovo,144990,32.0,1024.0,4096000.0,12th Gen Intel Core i7 12700H,8GB NVIDIA GeForce RTX 3070Ti,16.0,Windows 11 OS
+422,Latitude 7420 Laptop,Dell,118499,16.0,512.0,2073600.0,11th Gen Intel Core i7 1185G7,Intel Iris Xe Graphics,14.0,Windows 10 OS
+423,V15 82KDA00XIH Laptop,Lenovo,35490,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon Graphics,15.6,Windows 11 OS
+424,IdeaPad Flex 5 82R90068IN Laptop,Lenovo,62889,16.0,512.0,2304000.0,5th Gen AMD Ryzen 7 5700U,AMD Radeon,14.0,Windows 11 OS
+425,IdeaPad Gaming 3 82K201YAIN Laptop,Lenovo,63999,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+426,MagicBook 14 WDQ9BHNE Laptop,Honor,41990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon,14.0,Windows 11 OS
+427,VivoBook 14 2022 X1402ZA-MW311WS Laptop,Asus,49990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1220P,Intel Integrated UHD,14.0,Windows 11 OS
+428,VivoBook 14 2022 X1402ZA-EK521WS Laptop,Asus,54990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD,14.0,Windows 11 OS
+429,IdeaPad Gaming 3 82SA00B2IN Laptop,Lenovo,119990,16.0,512.0,2304000.0,12th Gen Intel Core i7 12700H,6GB NVIDIA GeForce RTX 3060,16.0,Windows 11 OS
+430,Creator M16 A12UD-633IN Laptop,MSI,85990,16.0,512.0,4249600.0,12th Gen Intel Core i7 12700H,4GB NVIDIA GeForce RTX 3050 Ti,16.0,Windows 11 OS
+431,Creator Pro M16 A12UIS-634IN Gaming Laptop,MSI,85590,16.0,1024.0,4249600.0,12th Gen Intel Core i7 12700H,4GB NVIDIA GeForce RTX A1000,16.0,Windows 11 OS
+432,V15 82KDA01EIH Laptop,Lenovo,31990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 3 5300U,AMD Radeon Graphics,15.6,Windows 11 OS
+433,Vivobook S14 Flip 2022 TN3402QA-LZ501WS Laptop,Asus,55800,16.0,512.0,2304000.0,5th Gen AMD Ryzen 5  5600H,AMD Radeon Graphics,14.0,Windows 11 OS
+434,Notebook Pro 120G Laptop,Xiaomi,72422,16.0,512.0,4096000.0,12th Gen Intel Core i5 12450H,Intel UHD Graphics,14.0,Windows 11 OS
+435,Extensa 15 EX215-54 Laptop,Acer,31500,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows 11 OS
+436,VivoBook 14 X415EA-EK322WS Notebook,Asus,37990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated Intel UHD,14.0,Windows 11 OS
+437,Victus 15-fb0050AX Gaming Laptop,HP,63490,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+438,IdeaPad Slim 5 82SF008YIN Laptop,Lenovo,60990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+439,IdeaPad Slim 3 82KU017EIN Laptop,Lenovo,39900,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon,15.6,Windows 11 OS
+440,VivoBook 15 X1500EA-EJ322WS Laptop,Asus,33990,8.0,512.0,2073600.0,11th Gen intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+441,Pavilion 15s-fq5112TU Laptop,HP,57580,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+442,ROG Zephyrus Duo 16 2022 GX650RXZ-LO227WS Gaming Laptop,Asus,339990,32.0,2048.0,4096000.0,6th Gen AMD Ryzen 9  6900HX,16GB NVIDIA GeForce RTX 3080 Ti,16.0,Windows 11 OS
+443,15s-fq2672TU Laptop,HP,34999,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows 11 OS
+444,15s-fq5111TU Laptop,HP,54990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe,15.6,Windows 11 OS
+445,15s-dr3506TU Laptop,HP,35999,8.0,1024.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+446,15s-du3614TU Laptop,HP,41710,8.0,1024.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows 11 OS
+447,Vostro 5625 laptop,Dell,50090,8.0,512.0,2304000.0,5th Gen AMD Ryzen 5 5625U,AMD Radeon Graphics,16.0,Windows 11 OS
+448,Pavilion 14s- fy1003AU Laptop,HP,45890,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon Graphics,14.0,Windows 11 OS
+449,15s-eq1559AU Laptop,HP,29990,8.0,512.0,1049088.0,3rd Gen AMD Athlon Silver 3050U,AMD Radeon Graphics,15.6,Windows 11 OS
+450,15s-FR2511TU Laptop,HP,37672,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+451,G15-5525 Gaming Laptop,Dell,83523,16.0,512.0,2073600.0,6th Gen AMD Ryzen 7  6800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+452,Aspire 5 A515-57G Gaming Laptop,Acer,52128,8.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+453,Aspire 3 A315-59 Laptop,Acer,39990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+454,Inspiron 3525 Laptop,Dell,54790,8.0,512.0,2073600.0,5th Gen AMD Ryzen 7  5825U,AMD Radeon Radeon Graphics,15.6,Windows 11 OS
+455,Predator Triton 500 SE PT516-52s NH.QFQSI.001 Laptop,Acer,147090,32.0,2048.0,4096000.0,12th Gen Intel Core i7 12700H,8GB NVIDIA GeForce RTX 3070 Ti,16.0,Windows 11 OS
+456,Pavilion 14-dv2041TU Laptop,HP,67990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+457,Thin GF63 11SC-853IN Gaming Laptop,MSI,49290,8.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA Geforce GTX1650 Max Q,15.6,Windows 10 OS
+458,TUF Gaming F15 FX506LHB-HN355WS Gaming Laptop,Asus,51990,8.0,512.0,2073600.0,10th Gen Intel Core i5 10300H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+459,Pavilion 14-dv2015TU Laptop,HP,83149,16.0,1024.0,2073600.0,12th Gen Intel Core i7 1255U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+460,Pavilion 15s-FQ5009TU Laptop,HP,54999,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe,15.6,Windows 11 OS
+461,Galaxy Book2 15 Laptop,Samsung,74990,16.0,512.0,2073600.0,12th Gen Intel Core i7 1255U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+462,IdeaPad Gaming 3 82K200X3IN Laptop,Lenovo,66990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7  5800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+463,Pavilion 15-eg2009TU Laptop,HP,61990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,Intel Iris Xe,15.6,Windows 11 OS
+464,Pavilion 14-ec1003AU Laptop,HP,51573,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5625U,AMD Radeon Graphics,14.0,Windows 11 OS
+465,Aspire 3 A315-58 Laptop UN.ADDSI.036 Laptop,Acer,31500,8.0,256.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows OS
+466,Extensa EX215-54 NX.EGJSI.00E Laptop,Acer,29000,4.0,256.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows 11 OS
+467,15s-eq2143au Laptop,HP,32990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 3  5300U,AMD Radeon AMD,15.6,Windows OS
+468,Ideapad 15ALC6 82KU017KIN Laptop,Lenovo,36990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon,15.6,Windows 11 OS
+469,MacBook Pro 14 inch MKGQ3HN Laptop,Apple,239900,16.0,1024.0,5939136.0,Apple M1 Pro M1 Pro,16-core GPU,14.2,Mac OS
+470,MacBook Pro 16 inch MK1A3HN Laptop,Apple,309490,32.0,1024.0,7720704.0,Apple M1 Max M1 Max,32-core GPU,16.2,Mac OS
+471,Inspiron 3511 Laptop,Dell,49990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Iris Xe Graphics,15.6,Windows 10 OS
+472,Inspiron 3511 Laptop,Dell,40250,8.0,1024.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated,15.6,Windows 10 OS
+473,VivoBook F571LH-BQ435T Gaming Laptop,Asus,59990,16.0,512.0,2073600.0,10th Gen Intel Core i7 10870H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 10 OS
+474,Inspiron 3511 Laptop,Dell,57990,8.0,1024.0,2073600.0,11th Gen Intel Core i5 1135G7,2GB NVIDIA GeForce MX350,15.6,Windows 10 OS
+475,Book Slim Laptop,Realme,36999,8.0,256.0,3110400.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,14.0,Windows 10 OS
+476,RedmiBook Pro 15 Laptop,Xiaomi,53990,16.0,512.0,6400000.0,5th Gen AMD Ryzen 5  5600H,AMD Radeon Graphics,15.6,Windows 10 OS
+477,RedmiBook Pro 14 Laptop,Xiaomi,48990,16.0,512.0,4096000.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon Graphics,14.0,Windows 10 OS
+478,SE14 NP14V3IN033P Laptop,Vaio,39990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Iris Xe Graphics,14.0,Windows 10 OS
+479,15s-GR0012AU Laptop,HP,37290,8.0,1024.0,2073600.0,3rd Gen AMD Ryzen 3  3250U,AMD Radeon Vega 6,15.6,Windows 10 OS
+480,Surface Laptop 3 1873,Microsoft,60390,8.0,128.0,4153344.0,3rd Gen AMD Ryzen 5  3580U,AMD Radeon Vega 9,15.0,Windows 10 OS
+481,MateBook D15 Laptop,Huawei,54999,8.0,256.0,2073600.0,3rd Gen AMD Ryzen 5 3500U,2GB NVIDIA GeForce MX250,15.6,Windows 10 OS
+482,EliteBook 840 G6,HP,90464,8.0,512.0,2073600.0,8th Gen Intel Core i5 8265U,Integrated UHD Graphics 620,14.0,Windows 10 OS
+483,Swift SF514-52T NX.GTMSI.025 Laptop,Acer,54490,8.0,512.0,2073600.0,8th Gen Intel Core i5 8250U,Intel Integrated UHD 620,14.0,Windows 10 OS
+484,MacBook Pro 2018 13-inch Touch Bar Laptop,Apple,199900,8.0,512.0,4096000.0,Intel,Intel Iris Plus Graphics 655,13.3,Mac High Sierra OS
+485,Latitude 13 5320 2 in 1 Laptop,Dell,89999,8.0,256.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel UHD Graphics,13.3,Windows 10 OS
+486,Latitude 9430 Laptop,Dell,260000,32.0,1024.0,4096000.0,12th Gen Intel Core i7 1265U,Intel Iris Xe Graphics,14.1,Windows OS
+487,Aspire Lite 15 AL15-51 2023  Laptop,Acer,45999,16.0,1024.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Iris Xe Graphics,15.6,Windows 11 OS
+488,Thinkpad P16s 21BTS0DG00 Laptop,Lenovo,106990,16.0,1024.0,2304000.0,12th Gen Intel Core i7 1260P,Intel UHD Graphics,16.0,Windows 11 OS
+489,ThinkPad X1 Carbon 21HMS00000 Laptop,Lenovo,221990,16.0,1024.0,2304000.0,13th Gen Intel Core i7 1355U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+490,Predator Triton 500 SE PT516-52s NH.QFQSI.001 Laptop,Acer,146990,32.0,2048.0,4096000.0,12th Gen Intel Core i7 12700H,8GB NVIDIA GeForce RTX 3070 Ti,16.0,Windows 11 OS
+491,TUF Gaming F15 FX506LHB-HN355WS Gaming Laptop,Asus,52990,8.0,512.0,2073600.0,10th Gen Intel Core i5 10300H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+492,Swift 3 SF314-512 NX.K0FSI.002 Laptop,Acer,59990,8.0,512.0,3686400.0,12th Gen Intel Core i5 1240P,Intel Integrated Iris Xe,14.0,Windows 11 OS
+493,Inspiron 15 3511 Laptop,Dell,52990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Integrated UHD Graphics,15.6,Windows 11 OS
+494,Galaxy Book2 15 Laptop,Samsung,64490,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated Iris Xe,15.6,Windows 11 OS
+495,Galaxy Book2 Laptop,Samsung,78990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,4GB Intel Arc A350M Graphics,15.6,Windows 11 OS
+496,Galaxy Book2 15 Laptop,Samsung,59900,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+497,Pavilion 14-EC1019AU Laptop,HP,55990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5625U,AMD Radeon AMD,14.0,Windows 11 OS
+498,V15-IGL 82C3A008IH Laptop,Lenovo,19990,4.0,256.0,2073600.0,Intel Celeron  N4020,Intel Integrated UHD,15.6,DOS OS
+499,Book Prime Laptop,Realme,47990,16.0,512.0,3110400.0,11th Gen Intel Core i5 11320H,Intel Iris Xe Graphics,14.0,Windows 11 OS
+500,Galaxy Book2 Pro 360 13 Laptop,Samsung,112990,16.0,512.0,2073600.0,12th Gen Intel Core i7 1260P,Intel Iris Xe Graphics,13.3,Windows 11 OS
+501,Galaxy Book2 Pro 13 Laptop,Samsung,101990,16.0,512.0,2073600.0,12th Gen Intel Core i7 1260P,Intel Iris Xe Graphics,13.3,Windows 11 OS
+502,Galaxy Book2 Pro 360 13 Laptop,Samsung,102990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,Intel Iris Xe Graphics,13.3,Windows 11 OS
+503,Vivobook 13 Slate OLED T3300KA-LQ122WS Laptop,Asus,33499,4.0,128.0,2073600.0,Intel Pentium Silver  N6000,Intel UHD Graphics,13.3,Windows 11 OS
+504,15s-eq2143au Laptop,HP,33999,8.0,512.0,2073600.0,5th Gen AMD Ryzen 3  5300U,AMD Radeon AMD,15.6,Windows OS
+505,MacBook Pro 16 inch MK183HN Laptop,Apple,215994,16.0,512.0,7720704.0,Apple M1 Pro M1 Pro,16-core GPU,16.2,Mac OS
+506,MacBook Pro 14 inch MKGQ3HN Laptop,Apple,215994,16.0,1024.0,5939136.0,Apple M1 Pro M1 Pro,16-core GPU,14.2,Mac OS
+507,VivoBook X509FA-BR301T Laptop,Asus,26500,4.0,1024.0,2073600.0,10th Gen Intel Core i3 10110U,Intel UHD Graphics,15.6,Windows 10 OS
+508,Mi Notebook Pro X 15 Laptop,Xiaomi,79990,16.0,512.0,7464960.0,11th Gen Intel Core i5 11300H,Intel Iris Xe Graphics,15.6,Windows 10 OS
+509,Inspiron 5518 Laptop,Dell,68000,16.0,512.0,2073600.0,11th Gen Intel Core i5 11300H,Intel Iris Xe Graphics,15.6,Windows 10 OS
+510,IdeaPad 3 15ITL6 82H8014BIN Laptop,Lenovo,47925,8.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Integrated Iris Xe,15.6,Windows 10 OS
+511,RedmiBook Pro 15 Laptop,Xiaomi,59990,16.0,512.0,6400000.0,5th Gen AMD Ryzen 7 5800H,AMD Radeon Graphics,15.6,Windows 10 OS
+512,Latitude 3410 Laptop,Dell,67800,8.0,512.0,1049088.0,10th Gen Intel Core i5 10210U,Intel HD,14.0,Ubuntu OS
+513,Surface Laptop 3 1873,Microsoft,60490,8.0,128.0,4153344.0,3rd Gen AMD Ryzen 5  3580U,AMD Radeon Vega 9,15.0,Windows 10 OS
+514,MacBook Air 2020 Laptop,Apple,72999,8.0,256.0,4096000.0,10th Gen Intel Core i3,Intel Iris Plus,13.3,Mac 10.15.3 OS
+515,MacBook Air 2020 Laptop,Apple,109999,8.0,512.0,4096000.0,10th Gen Intel Core i7,Intel Iris Plus,13.3,Mac 10.15.3 OS
+516,Inspiron 5370 Laptop,Dell,87990,8.0,256.0,2073600.0,8th Gen Intel Core i7 8550U,4GB Geforce MX130,13.3,Windows 10 OS
+517,ZBook 15 G6 Laptop,HP,121900,16.0,512.0,8294400.0,9th Gen intel Core i7 9750H,Intel UHD Graphics 630,15.6,Windows 10 OS
+518,ZenBook Pro 15 UX580GE-E2032T Laptop,Asus,136490,16.0,1024.0,8294400.0,8th Gen Intel Core i9 8950HK,4GB NVIDIA Geforce GTX 1050Ti,15.6,Windows 10 OS
+519,G5 MF-E2IN313SHLaptop,Gigabyte,143700,8.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+520,15s-er2004AU Laptop,HP,50490,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7  5700U,AMD Radeon,15.6,Windows 11 OS
+521,Inspiron 3530 IN3530RMD8W001ORS1 Laptop,Dell,71990,16.0,1024.0,2073600.0,13th Gen Intel Core i5 1335U,Intel UHD Graphics,15.6,Windows 11 OS
+522,G15-5530 15 2023 Gaming Laptop,Dell,136899,16.0,1024.0,2073600.0,13th Gen Intel Core i7 13650HX,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+523,IdeaPad Flex 5 82R9008FIN Laptop,Lenovo,62990,16.0,512.0,2304000.0,5th Gen AMD Ryzen 5  5500U,AMD Radeon Graphics,14.0,Windows 11 OS
+524,Vivobook Go 14 E1404FA-NK547WS Laptop,Asus,43990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,14.0,Windows 11 OS
+525,Aspire 3 A315-24P NX.KDESI.00B Laptop,Acer,33990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,15.6,Windows 11 OS
+526,Vivobook 15X OLED M3504YA-LK552WS Laptop,Asus,58990,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 5 7530U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+527,Pulse 15 B13VGK-1296IN Gaming Laptop,MSI,154990,16.0,1024.0,3686400.0,13th Gen Intel Core i7 13700H,8GB NVIDIA GeForce RTX 4070,15.6,Windows 11 OS
+528,Summit B15 A11M-236IN Laptop,MSI,69990,16.0,1024.0,2073600.0,11th Gen Intel Core i7 1185G7,Intel Iris Xe,15.6,Windows 10 OS
+529,Thinkpad L14 Gen 2 ‎20X1S10V00 Laptop,Lenovo,50000,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Iris Xe Graphics,14.0,DOS OS
+530,V15 G4 Laptop,Lenovo,36990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon Graphics,15.6,Windows 11 OS
+531,Vivobook 15X OLED M3504YA-LK741WS Laptop,Asus,76500,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7  7730U,Integrated AMD Radeon Graphics,15.6,Windows 11 OS
+532,IdeaPad 3 15IAU7 82RK00WXIN Laptop,Lenovo,33990,8.0,256.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+533,IdeaPad 1 15AMN7 82VG00ERIN Laptop,Lenovo,32990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon 610M,15.6,Windows 11 OS
+534,Vivobook 16X K3605VU-MB541WS Laptop,Asus,103221,16.0,512.0,2304000.0,13th Gen Intel Core i5 13500H,6GB NVIDIA Geforce RTX 4050,16.0,Windows 11 OS
+535,Vivobook 16X K3605ZU-MB542WS Laptop,Asus,89990,16.0,512.0,2304000.0,12th Gen Intel Core i5 12450H,6GB NVIDIA Geforce RTX 4050,16.0,Windows 11 OS
+536,IdeaPad Gaming 3 15IHU6 82K101R9IN Laptop,Lenovo,56990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11320H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+537,Vivobook Go 14 E1404FA-NK543WS Laptop,Asus,44980,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,14.0,Windows 11 OS
+538,Vivobook Go 14 E410KA-EK013W Laptop,Asus,23990,8.0,256.0,2073600.0,Intel   N4500,Intel Integrated UHD,14.0,Windows OS
+539,Vivobook Pro 15 OLED M6500QC-LK741WS Laptop,Asus,76990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5800HS,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+540,Chromebook CB314-3H NX.K04SI.008 Laptop,Acer,26920,8.0,64.0,2073600.0,Intel Celeron N4500,Intel Integrated UHD,14.0,Chrome OS
+541,Lite NU14U4INC44BN-CS Laptop,Ultimus,14490,4.0,256.0,1049088.0,Intel Celeron  N4020,Intel Integrated UHD Graphics,14.1,Windows 11 OS
+542,Inspiron 3520 IN3520KTMFJS01ORS1 Laptop,Dell,38990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+543,IdeaPad Gaming 3 15ACH6 82K20289IN Laptop,Lenovo,52990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+544,Omen 17-ck2011TX Gaming Laptop,HP,362999,32.0,1024.0,3686400.0,13th Gen Intel Core i9 13900HX,16GB NVIDIA GeForce RTX 4090,17.3,Windows 11 OS
+545,Aspire 5 A515-58GM 15 2023 Gaming Laptop,Acer,64990,16.0,512.0,2073600.0,13th Gen Intel Core i5 13420H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+546,Nitro V ANV15-51 UN.QNASI.002 Gaming Laptop,Acer,62990,16.0,512.0,2073600.0,13th Gen Intel Core i5 13420H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+547,One 11 Z8-284 UN.013SI.032 Laptop,Acer,18990,8.0,256.0,1049088.0,Intel Celeron N4500,Intel Integrated UHD,11.6,Windows 11 OS
+548,Omen 16-u0022TX Gaming Laptop,HP,169999,16.0,512.0,4096000.0,13th Gen Intel Core i7 13700HX,6GB NVIDIA GeForce RTX 4050,16.1,Windows 11 OS
+549,Omen 16-u0021TX Gaming Laptop,HP,189999,16.0,1024.0,4096000.0,13th Gen Intel Core i7 13700HX,8GB NVIDIA GeForce RTX 4060,16.1,Windows 11 OS
+550,Omen 16-u0024TX Gaming Laptop,HP,298999,32.0,2048.0,4096000.0,13th Gen Intel Core i9 13900HX,8GB NVIDIA GeForce RTX 4070,16.1,Windows 11 OS
+551,Pavilion Plus ‎14-ey0789AU Laptop,HP,99999,16.0,1024.0,5184000.0,7th Gen Amd Ryzen 7 7840H,AMD Radeon 780M Graphics,14.0,Windows 11 OS
+552,Omen 17-ck2008AX Gaming Laptop,HP,267999,16.0,1024.0,3686400.0,13th Gen Intel Core i7 13700HX,12GB NVIDIA GeForce RTX 4080,17.3,Windows 11 OS
+553,IdeaPad Pro 5 83AQ005SIN Gaming Laptop,Lenovo,108990,16.0,1024.0,4096000.0,13th Gen Intel Core i7 13700H,6GB NVIDIA GeForce RTX 3050,16.0,Windows 11 OS
+554,IdeaPad Gaming 3 15IHU6 82K101R3IN Laptop,Lenovo,51990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11320H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+555,TUF Gaming F17 FX706HF-HX019W Laptop,Asus,62608,16.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce RTX 2050,17.3,Windows 11 OS
+556,Aspire 5 A515-57G-58R7 Gaming Laptop,Acer,57999,8.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+557,Inspiron 5430 IN5430FR0KC001ORS1 Laptop,Dell,62990,8.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+558,IdeaPad Slim 5 82XD005RIN Laptop,Lenovo,71990,16.0,512.0,2304000.0,13th Gen Intel Core i5 13420H,Integrated Intel Iris Xe Graphics,14.0,Windows 11 OS
+559,Legion Pro 7 2023 82WQ007TIN Gaming Laptop,Lenovo,297990,32.0,1024.0,4096000.0,13th Gen Intel Core i9 13900HX,12GB NVIDIA Geforce RTX 4080,16.0,Windows 11 OS
+560,Legion Slim 5 82YA00DXIN Gaming Laptop,Lenovo,138490,16.0,1024.0,4096000.0,13th Gen Intel Core i7 13620H,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+561,Legion 5 Pro 82JQ010EIN Laptop,Lenovo,103395,16.0,512.0,4096000.0,5th Gen AMD Ryzen 7 5800H,6GB NVIDIA GeForce RTX 3060,16.0,Windows 11 OS
+562,IdeaPad 5 Pro 82SN00F0IN Gaming Laptop,Lenovo,88990,16.0,512.0,4096000.0,6th Gen AMD Ryzen 7 6800HS,4GB NVIDIA GeForce RTX 3050,16.0,Windows 11 OS
+563,CreatorPro Z16 HX B13VKTO-214IN Laptop,MSI,419990,64.0,2048.0,4096000.0,13th Gen Intel Core i9 13950HX,8GB NVIDIA RTX 3000 Ada,16.0,Windows 11 OS
+564,IdeaPad Flex 5 14IRU8 82Y0004TIN Laptop,Lenovo,87990,16.0,512.0,2304000.0,13th Gen Intel Core i7 1355U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+565,IdeaPad Slim 3 82RK00EMIN Laptop,Lenovo,48990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+566,Bravo 15 B7ED-011IN Gaming Laptop,MSI,79990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7735HS,4GB AMD Radeon RX6550M,15.6,Windows 11 OS
+567,IdeaPad 3 15IAU7 82RK00XDIN Laptop,Lenovo,33990,8.0,256.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+568,14s-dr3002TU Laptop,HP,26990,8.0,512.0,1049088.0,Intel Celeron N4500,Intel UHD Graphics,14.0,Windows 11 OS
+569,C734 NX.H8VSI.004 Chromebook Laptop,Acer,13990,4.0,64.0,1310720.0,Intel Celeron Dual Core N4500,Intel Integrated UHD,11.6,Chrome OS
+570,TravelMate P2 TMP214-53 Business Laptop,Acer,49990,16.0,1024.0,2073600.0,11th Gen Intel Core i7 1165G7,Intel Integrated Iris Xe,14.0,Windows 11 OS
+571,Bravo 15 B7ED-012IN Gaming Laptop,MSI,59990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,4GB AMD Radeon RX6550M,15.6,Windows 11 OS
+572,ROG Strix G15 G513RC-HN251WS Gaming Laptop,Asus,91990,16.0,1024.0,2073600.0,6th Gen AMD Ryzen 7  6800H,4GB NVIDIA GeForce RTX RTX 3050,15.6,Windows 11 OS
+573,Vivobook 16 2023 X1605VA-MB957WS Laptop,Asus,95689,16.0,1024.0,2304000.0,13th Gen Intel Core i9 13900H,Integrated Intel Iris Xe Graphics,16.0,Windows 11 OS
+574,Chromebook CB314-3H NX.K04SI.007 Laptop,Acer,26732,8.0,128.0,1310720.0,Intel Celeron Dual Core N4500,Intel Integrated UHD,14.0,Chrome OS
+575,Zbook FireFly 14 G8 4F0W6PA Laptop,HP,89999,16.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel UHD Graphics,14.0,Windows 11 OS
+576,Vivobook S14 Flip TN3402QA-LZ751WS Laptop,Asus,69990,16.0,1024.0,2304000.0,5th Gen AMD Ryzen 7 5800H,AMD Radeon Graphics,14.0,Windows 11 OS
+577,Vivobook S14 Flip TN3402QA-LZ551WS Laptop,Asus,65391,16.0,1024.0,2304000.0,5th Gen AMD Ryzen 5  5600H,AMD Radeon Graphics,14.0,Windows 11 OS
+578,Thinkpad T14 Laptop,Lenovo,90000,16.0,512.0,2073600.0,4th Gen AMD Ryzen 7 PRO 4750U,AMD Radeon Graphics,14.0,Windows 10 OS
+579,IdeaPad Slim 3 82RK00VWIN Laptop,Lenovo,38390,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+580,IdeaPad 1 15AMN7 82VG00J5IN Laptop,Lenovo,40990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon 610M,15.6,Windows 11 OS
+581,IdeaPad Gaming 3 82K2028AIN Laptop,Lenovo,50990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5500H,4GB  NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+582,Vostro 3520 Laptop,Dell,47990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel UHD Graphics,15.6,Windows 11 OS
+583,Inspiron 15 3520 IN352092K4N001ORS1 Laptop,Dell,59990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated Graphics,15.6,Windows 11 OS
+584,Vostro 3530 Laptop,Dell,61990,8.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Graphics,15.6,Windows 11 OS
+585,V14 G4 Laptop,Lenovo,31990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon,14.0,Windows 11 OS
+586,Creator M16 B13VE-1271IN Laptop,MSI,129990,32.0,1024.0,2304000.0,13th Gen Intel Core i7 13700H,6GB NVIDIA GeForce RTX 4050,16.0,Windows 11 OS
+587,V15 G3 82TTA02UIH Laptop,Lenovo,49989,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD,15.6,Windows 11 OS
+588,Vostro 3525 Laptop,Dell,42990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon Graphics,15.6,Windows 11 OS
+589,Creator Pro M16 B13VJ-1272IN Gaming Laptop,MSI,259990,32.0,1024.0,2304000.0,13th Gen Intel Core i7 13700H,8GB NVIDIA GeForce RTX A2000 Ada,16.0,Windows 11 OS
+590,IdeaPad Slim 3i 82X70032IN Laptop,Lenovo,44690,8.0,512.0,2073600.0,13th Gen Intel Core i3 1305U,Intel UHD Graphics,15.6,Windows 11 OS
+591,IdeaPad Flex 5 Gen 8 82XX0070IN Laptop,Lenovo,61990,16.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon AMD,14.0,Windows 11 OS
+592,ZBook Firefly 16 G9 6V2X7PA Workstation PC Laptop,HP,123300,16.0,1024.0,2304000.0,12th Gen Intel Core i7 1255U,Intel Iris Xe Graphics,16.0,Windows 11 OS
+593,Inspiron 3530 15 Laptop,Dell,74499,16.0,1024.0,2073600.0,13th Gen Intel Core i5 1335U,Intel UHD Graphics,15.6,Windows 11 OS
+594,IdeaPad Gaming 3 15IHU6 82K101PCIN Laptop,Lenovo,47990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11320H,4GB NVIDIA GeForce GTX 2050,15.6,Windows 11 OS
+595,Yoga 6 13ABR8 83B2007UIN Laptop,Lenovo,85990,16.0,1024.0,2304000.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon Graphics,13.3,Windows 11 OS
+596,IdeaPad Flex 5 82R900D4IN Laptop,Lenovo,61990,16.0,512.0,2304000.0,5th Gen AMD Ryzen 7 5700U,AMD Radeon,14.0,Windows 11 OS
+597,Neo NU14U3INT54BN Laptop,Ultimus,21990,8.0,256.0,2073600.0,10th Gen Intel Core i3 1005G1,Intel Integrated Iris,14.1,Windows 11 OS
+598,Victus 15-fb0158AX Gaming Laptop,HP,49990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB AMD Radeon RX 6500M,15.6,Windows 11 OS
+599,Legion Slim 5 82Y9009KIN Gaming Laptop,Lenovo,112990,16.0,512.0,2304000.0,7th Gen AMD Ryzen 7 7840HS,6GB NVIDIA GeForce RTX 4050,16.0,Windows 11 OS
+600,Legion Slim 5 16APH8 82Y90042IN Gaming Laptop,Lenovo,127990,16.0,512.0,4096000.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+601,Pavilion x360 14-ek1021TU Laptop,HP,91590,16.0,512.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+602,Victus 15-fa1062TX Gaming Laptop,HP,103060,16.0,512.0,2073600.0,13th Gen Intel Core i5 13500H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+603,15-fc0027AU Laptop,HP,39600,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,15.6,Windows 11 OS
+604,Legion Slim 5 16APH8 82Y9008MIN Gaming Laptop,Lenovo,137590,16.0,512.0,4096000.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+605,ThinkBook 15 Gen 5 21JF0026MJ Laptop,Lenovo,53980,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon AMD,16.0,Windows 11 OS
+606,Swift Go 14 NX.KG3SI.005 Laptop,Acer,54990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5  7530U,AMD Radeon Graphics,14.0,Windows 11 OS
+607,VivoBook 15 X515MA-BR022WS Laptop,Asus,28099,8.0,512.0,1049088.0,Intel Celeron N4020,Intel Integrated UHD 600,15.6,Windows OS
+608,Spectre 17-cs0097nr Foldable Laptop,HP,415000,16.0,1024.0,4915200.0,12th Gen Intel Core i7 1250U,Intel Iris Xe Graphics,17.0,Windows 11 OS
+609,CH‎ 4ZR1L82433 Laptop,Fujitsu,64990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1334U,Intel Iris Xe Graphics,13.3,Windows 11 OS
+610,CH‎ 4ZR1L82434 Laptop,Fujitsu,84990,16.0,1024.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Iris Xe Graphics,13.3,Windows 11 OS
+611,Megabook T1 Laptop,Tecno,52999,16.0,1024.0,2073600.0,11th Gen Intel Core i7 1165G7,Intel UHD Graphics,15.6,Windows 11 OS
+612,Megabook T1 Laptop,Tecno,34999,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+613,Vivobook 15X OLED M3504YA-LK752WS Laptop,Asus,65990,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 7  7730U,Integrated AMD Radeon Graphics,15.6,Windows 11 OS
+614,Victus 15-fb1016AX  Gaming Laptop,HP,56990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+615,ThinkPad E15 20TDS0AD00 Laptop,Lenovo,88999,16.0,1024.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Iris Xe Graphics,15.6,Windows 10 OS
+616,Ideapad 3 15ITL06 82H803GUIN Laptop,Lenovo,35990,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+617,Yoga 7 82YL0060IN Laptop,Lenovo,111490,16.0,512.0,5184000.0,13th Gen Intel Core i7 1360P,Integrated Intel Iris Xe Graphics,14.0,Windows 11 OS
+618,250 G9 7N179PA Laptop,HP,50990,8.0,512.0,1049088.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+619,Thinkpad E15 21E6S07S00 Laptop,Lenovo,89500,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+620,Ideapad Slim 5 82XE004QIN Laptop,Lenovo,66388,16.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon Graphics,14.0,Windows 11 OS
+621,Vivobook Pro 15 M6500QC-HN551WS Laptop,Asus,66990,16.0,1024.0,2073600.0,5th Gen AMD Ryzen 5 5600HS,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+622,Vivobook Pro 15 M6500QC-HN751WS Laptop,Asus,74990,16.0,1024.0,2073600.0,5th Gen AMD Ryzen 7 5800HS,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+623,255 G9 841W6PA Laptop,HP,26990,8.0,512.0,1049088.0,3rd Gen AMD Ryzen 3  3250U,AMD Radeon Graphics,15.6,DOS 3.0 OS
+624,15 Inspiron 3530 Laptop,Dell,65990,8.0,1024.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated UHD,15.6,Windows 11 OS
+625,Vivobook 16X 2023 K3605ZC-MBN752WS Laptop,Asus,87990,16.0,1024.0,2304000.0,12th Gen Intel Core i7 12650H,4GB NVIDIA GeForce RTX 3050,16.0,Windows 11 OS
+626,Inspiron 3520 IN3520KTMFJS1ORGR1 Laptop,Dell,36480,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+627,Inspiron 3530 IN3530RW8JY001ORS1 Laptop,Dell,63989,8.0,1024.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Integrated Intel® UHD Graphics,15.6,Windows 11 OS
+628,TUF Gaming F15 90NR0GW1-M00F00 Laptop,Asus,90990,16.0,1024.0,2073600.0,12th Gen Intel Core i7 12700H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+629,Vivobook 16X 2023 K3605ZV-MBN741WS Laptop,Asus,104990,16.0,512.0,2304000.0,12th Gen Intel Core i7 12650H,NVIDIA Geforce RTX,16.0,Windows 11 OS
+630,240 G9 ALC 7M658PA Laptop,HP,64800,8.0,512.0,1049088.0,12th Gen Intel Core i5 1235U,Intel Integrated,14.0,DOS OS
+631,Chromebook CX1400FKA-EC0158 Laptop,Asus,27990,4.0,64.0,2073600.0,Intel Celeron N4500,Intel Integrated UHD,14.0,Chrome OS
+632,Chromebook CX1400CKA-EK0335 Laptop,Asus,14990,4.0,128.0,2073600.0,Intel Celeron N4500,Intel Integrated UHD,14.0,Chrome OS
+633,Chromebook CX1500CKA-EJ0241 Laptop,Asus,22990,4.0,64.0,2073600.0,Intel Celeron N4500,Intel Integrated UHD,15.6,Chrome OS
+634,Chromebook CX1500CKA-EJ0277 Laptop,Asus,23990,4.0,128.0,2073600.0,Intel Celeron N4500,Intel Integrated UHD,15.6,Chrome OS
+635,250 G9 7M659PA Laptop,HP,42900,8.0,512.0,1049088.0,12th Gen Intel Core i3 1215U,Intel Integrated,15.6,Windows 11 OS
+636,G6 KF Gaming Laptop,Gigabyte,130000,16.0,512.0,2304000.0,13th Gen Intel Core i7 13620H,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+637,G5 KF-E3IN313SH Laptop,Gigabyte,94990,8.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+638,ThinkBook 15 G3 ACL 21A4003KUS Laptop,Lenovo,57990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7  5700U,AMD Radeon AMD,15.6,Windows 11 OS
+639,Vivobook 16X K3605ZU-MBN742WS Laptop,Asus,104222,16.0,512.0,2304000.0,12th Gen Intel Core i7 12650H,6GB NVIDIA Geforce RTX 4050,16.0,Windows 11 OS
+640,UH-X ‎4ZR1M37246 Laptop,Fujitsu,69990,16.0,512.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+641,IdeaPad Slim 5 82XE0072IN Laptop,Lenovo,63990,16.0,512.0,2304000.0,7th Gen AMD Ryzen 7 7730U,AMD Integrated SoC,14.0,Windows 11 OS
+642,IdeaPad Slim 3 82XQ008UIN Laptop,Lenovo,48990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon 610M Graphics,15.6,Windows 11 OS
+643,V15 G3 IAP 82TT004VIH Laptop,Lenovo,46990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD,15.6,DOS OS
+644,Victus 15-fb1015AX Gaming Laptop,HP,55990,8.0,512.0,2073600.0,7th Gen Amd Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+645,Vivobook 16X K3605ZC-MBN542WS Laptop,Asus,66990,16.0,512.0,2304000.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 3050,16.0,Windows 11 OS
+646,Vivobook 16X K3605ZU-MBN541WS Laptop,Asus,89990,16.0,512.0,2304000.0,12th Gen Intel Core i5 12450H,6GB NVIDIA Geforce RTX 4050,16.0,Windows 11 OS
+647,Thin GF63 11UC-1291IN Gaming Laptop,MSI,62990,16.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+648,Katana 15 B12UDXK-1004IN Gaming Laptop,MSI,85990,16.0,512.0,2073600.0,12th Gen Intel Core i7 12650H,6GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+649,Thinkpad E15 21E6S0W700 Laptop,Lenovo,47100,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD Graphics,15.6,Windows 11 OS
+650,Yoga 7 82YM004UIN Laptop,Lenovo,91990,16.0,512.0,5184000.0,7th Gen AMD Ryzen 7 7735U,AMD Radeon Graphics,14.0,Windows 11 OS
+651,Vivobook Pro 15 OLED M6500QC-LK541WS Laptop,Asus,67990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB NVIDIA GeForce RTX 3050 GPU,15.6,Windows 11 OS
+652,TMP214-41-G3 UN.VSQSI.007 Notebook,Acer,39990,16.0,512.0,1049088.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon AMD,14.0,Windows 11 OS
+653,TMP214-41-G3 UN.VSQSI.006 Notebook,Acer,36990,8.0,512.0,1049088.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon AMD,14.0,Windows 11 OS
+654,Vivobook Go 14 2023 E1404FA-NK327WS Laptop,Asus,33990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,14.0,Windows 11 OS
+655,V14 82KAA055IH Laptop,Lenovo,43800,8.0,512.0,1049088.0,11th Gen Intel Core i5 1135G7,Intel UHD Graphics,14.0,DOS OS
+656,Omen 16-xf0043AX Gaming Laptop,HP,179490,32.0,1024.0,3686400.0,7th Gen AMD Ryzen 9 7940HS,8GB NVIDIA GeForce RTX 4070,16.1,Windows 11 OS
+657,Aero 14 OLED BMF Laptop,Gigabyte,164990,16.0,1024.0,5184000.0,13th Gen Intel Core i7 13700H,6GB NVIDIA GeForce RTX 4050,14.0,Windows 11 OS
+658,Inspiron 5430 IN54308DXWP001ORS1 Laptop,Dell,84990,16.0,1024.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+659,UH-X ‎4ZR1L73352 2-in-1 Laptop,Fujitsu,104990,16.0,1024.0,2304000.0,13th Gen Intel Core i7 1360p,Intel Iris Xe Graphics,14.0,Windows 11 OS
+660,TUF Gaming F15 FX506HF-HN076W Gaming Laptop,Asus,57990,16.0,512.0,2073600.0,11th Gen Intel Core i5 11260H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+661,Victus 15-fb1018AX Gaming Laptop,HP,58990,8.0,512.0,2073600.0,7th Gen Amd Ryzen 5 7535HS,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+662,Alienware x15 R2 D569947WIN9 Gaming Laptop,Dell,304990,32.0,1024.0,2073600.0,12th Gen Intel Core i9 12900H,8GB NVIDIA GeForce RTX 3070 Ti,15.6,Windows 11 OS
+663,Vivobook Go 14 2023 E1404FA-NK325WS Laptop,Asus,33990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,14.0,Windows 11 OS
+664,Elite NU14U3INF56BN-CS Laptop,Ultimus,28990,8.0,512.0,2073600.0,10th Gen Intel Core i5 1035G4,Intel Integrated Iris,14.1,Windows 11 OS
+665,Aspire 3 Spin 14 NX.KENSI.002 Laptop,Acer,39900,8.0,512.0,2304000.0,Intel Core i3 N305,Intel UHD Graphics,14.0,Windows 11 OS
+666,IdeaPad 3 15ITL6 82H803GSIN Laptop,Lenovo,36490,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows 11 OS
+667,IdeaPad Slim 5i 82XD0040IN Laptop,Lenovo,87490,16.0,512.0,2304000.0,13th Gen Intel Core i7 13620H,Intel Integrated UHD,14.0,Windows 11 OS
+668,Inspiron 3530 2023 Laptop,Dell,44990,8.0,1024.0,2073600.0,13th Gen Intel Core i3 1305U,Intel Integrated UHD,15.6,Windows 11 OS
+669,Yoga 7 Flip 82YL005YIN Laptop,Lenovo,107990,16.0,512.0,5184000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+670,Inspiron 3535 2023 Laptop,Dell,46900,8.0,1024.0,2073600.0,7th Gen Amd Ryzen 5 7520U,AMD Radeon Graphics,15.6,Windows 11 OS
+671,Inspiron 13 5330 Laptop,Dell,98890,16.0,1024.0,4096000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,13.3,Windows 11 OS
+672,Inspiron 7430 2023 2 in 1 Laptop,Dell,76990,8.0,1024.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+673,Inspiron 5330 2023 Laptop,Dell,86990,16.0,1024.0,4096000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,13.3,Windows 11 OS
+674,Inspiron 7430 2 in 1 Touch Laptop,Dell,86990,16.0,1024.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+675,Vostro 3430 VN3430RHXFG001ORB1 Laptop,Dell,58490,8.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+676,Victus 15-FB0142AX Gaming Laptop,HP,69199,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+677,Thin GF63 11SC-1494IN Gaming Laptop,MSI,45990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11260H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+678,Thin GF63 12VF-663IN Gaming Laptop,MSI,94990,16.0,512.0,2073600.0,12th Gen Intel Core i7 12650H,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+679,Katana 17 B12VFK-668IN Gaming Laptop,MSI,97990,8.0,1024.0,2073600.0,12th Gen Intel Core i7 12650H,8GB NVIDIA GeForce RTX 4060,17.3,Windows 11 OS
+680,Pulse 17 B13VGK-652IN Gaming Laptop,MSI,179990,16.0,1024.0,2073600.0,13th Gen Intel Core i9 13900H,8GB NVIDIA GeForce RTX 4070,17.3,Windows 11 OS
+681,Pulse 17 B13VGK-666IN Gaming Laptop,MSI,125990,8.0,1024.0,3686400.0,13th Gen Intel Core i7 13700H,8GB NVIDIA GeForce RTX 4060,17.3,Windows 11 OS
+682,Victus  15-fa1060TX  Gaming Laptop,HP,116463,16.0,512.0,2073600.0,13th Gen Intel Core i5 13500H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+683,Victus 15-fa1064TX Gaming Laptop,HP,109990,16.0,512.0,2073600.0,13th Gen Intel Core i7 13700H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+684,Omen 16-wf0052TX Gaming Laptop,HP,153625,16.0,512.0,2073600.0,13th Gen Intel Core i5 13500HX,6GB NVIDIA GeForce RTX 4050,16.1,Windows 11 OS
+685,Omen 16-u0023TX Gaming Laptop,HP,270129,32.0,1024.0,4096000.0,13th Gen Intel Core i9 13900HX,8GB NVIDIA GeForce RTX 4070,16.1,Windows 11 OS
+686,Aorus 15 9SF Gaming Laptop,Gigabyte,149990,16.0,1024.0,3686400.0,12th Gen Intel Core i5 12500H,8GB NVIDIA GeForce RTX 4070,15.6,Windows 11 OS
+687,IdeaPad Slim 5 82XE004RIN Laptop,Lenovo,58990,16.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Integrated SoC,14.0,Windows 11 OS
+688,Envy x360 13-bf0141tu Laptop,HP,107190,16.0,512.0,5184000.0,12th Gen Intel Core i7 1250U,Intel Integrated Iris Xe,13.3,Windows 11 OS
+689,CoreBook X Pro Laptop,Chuwi,32999,16.0,512.0,2073600.0,10th Gen Intel Core i5 10210U,Intel UHD Graphics,15.6,Windows 11 OS
+690,Omen 16-wd0770TX Gaming Laptop,HP,102090,16.0,512.0,2073600.0,13th Gen Intel Core i5 13420H,6GB NVIDIA GeForce RTX 4050,16.1,Windows 11 OS
+691,Dragonfly G4 Laptop,HP,231746,16.0,512.0,2457600.0,13th Gen Intel Core i7 1365U,Intel Iris Xe Graphics,13.5,Windows 11 OS
+692,Vivobook 16X 2023 K3605ZC-MBN741WS Laptop,Asus,81990,16.0,512.0,2304000.0,12th Gen Intel Core i7 12650H,4GB NVIDIA GeForce RTX 3050,16.0,Windows 11 OS
+693,Inspiron 3520 IN3520KTMFJ001ORS1 Laptop,Dell,36890,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+694,LOQ 15IRH8 82XV00F6IN 2023 Gaming Laptop,Lenovo,87990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+695,Pavilion x360 14-ek1074TU Laptop,HP,77990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Iris Xe,14.0,Windows 11 OS
+696,Aorus 15 9KF Gaming Laptop,Gigabyte,117574,8.0,512.0,2073600.0,12th Gen Intel Core i5 12500H,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+697,LOQ 15APH8 82XT004JIN 2023 Gaming Laptop,Lenovo,97990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+698,Vector GP68HX 13VH-072IN Gaming Laptop,MSI,284990,32.0,1024.0,4096000.0,13th Gen Intel Core i9 13980HX,12GB NVIDIA GeForce RTX 4080,16.0,Windows 11 OS
+699,Vector GP78HX 13VI-409IN Gaming Laptop,MSI,344990,32.0,2048.0,4096000.0,13th Gen Intel Core i9 13980HX,16GB NVIDIA GeForce RTX 4090,17.0,Windows 11 OS
+700,Omen 16-wf0111TX Gaming Laptop,HP,146599,16.0,1024.0,2073600.0,13th Gen Intel Core i7 13700HX,8GB NVIDIA GeForce RTX 4060,16.1,Windows 11 OS
+701,Aspire 5 A515-56G NX.AT2SI.001 Laptop,Acer,44990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,2GB NVIDIA GeForce MX450,15.6,Windows 11 OS
+702,IdeaPad Slim 5 Light 14ABR8 82XS002RIN Laptop,Lenovo,57990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon Graphics,14.0,Windows 11 OS
+703,Omen 16-xf0059AX Gaming Laptop,HP,128599,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+704,Vivobook Go 15 E510MA-EJ001W Laptop,Asus,21990,4.0,256.0,2073600.0,intel Celeron  N4020,Integrated Intel UHD Graphics,15.6,Windows 11 OS
+705,Omen 16-wf0055TX Gaming Laptop,HP,151990,16.0,512.0,2073600.0,13th Gen Intel Core i7 13700HX,8GB NVIDIA GeForce RTX 4060,16.1,Windows 11 OS
+706,INBook X2 Plus Laptop,Infinix,52990,16.0,1024.0,2073600.0,11th Gen Intel Core i7 1195G7,Intel Integrated Iris Xe,15.6,Windows 11 OS
+707,ThinkBook 14s Yoga 20WEA00WIH Laptop,Lenovo,119888,16.0,1024.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Integrated,14.0,Windows 10 OS
+708,255 G8 Laptop,HP,22990,4.0,256.0,2073600.0,3rd Gen AMD Athlon  3050U,AMD Integrated,15.6,Windows 11 OS
+709,Yoga 6 83B2006BIN Laptop,Lenovo,76888,16.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon Graphics,13.3,Windows 11 OS
+710,XPS 15 9530 Laptop,Dell,256990,16.0,1024.0,7464960.0,13th Gen Intel Core i7 13700H,6GB NVIDIA RTX 4050,15.6,Windows 11 OS
+711,Inspiron 5330 Laptop,Dell,83090,16.0,512.0,4096000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,13.3,Windows 11 OS
+712,Inspiron 5518 D560667WIN9S Laptop,Dell,67999,16.0,512.0,2073600.0,11th Gen Intel Core i5 11320H,2GB NVIDIA GeForce MX450,15.6,Windows 11 OS
+713,Nitro 5 AN515-58 NH.QFHSI.007 Gaming Laptop,Acer,96256,16.0,512.0,2073600.0,12th Gen Intel Core i7 12700H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+714,Prestige 14 Evo B12M-472IN Laptop,MSI,77990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,Intel Integrated Iris Xe,14.0,Windows 11 OS
+715,Alienware X16 R1 2023 Gaming Laptop,Dell,323290,32.0,1024.0,5760000.0,13th Gen Intel Core i9 13900HX,12GB NVIDIA GeForce RTX 4080,16.0,Windows 11 OS
+716,Inspiron 5425 Laptop,Dell,67990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5825U,AMD Radeon Radeon,14.0,Windows 11 OS
+717,Prestige 13 Evo B12M-085IN Laptop,MSI,82990,8.0,512.0,2304000.0,12th Gen Intel Core i5 1240P,Intel Integrated Iris Xe,13.3,Windows 11 OS
+718,Alienware m16 2023 Gaming Laptop,Dell,199990,16.0,1024.0,2304000.0,7th Gen Amd Ryzen 7 7745HX,8GB NVIDIA GEFORCE RTX 4060,16.0,Windows 11 OS
+719,Aero 16 XE5 OLED Laptop,Gigabyte,189999,16.0,1024.0,9216000.0,12th Gen Intel Core i7 12700H,8GB NVIDIA GeForce RTX 3070Ti,16.0,Windows 11 OS
+720,Yoga 6 83B2005TIN Laptop,Lenovo,73990,16.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon,13.3,Windows 11 OS
+721,Vivobook Pro 15 M6500QC-LK542WS Laptop,Asus,67990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+722,ROG Zephyrus G16 2023 GU603ZU-N3023WS Laptop,Asus,142990,16.0,1024.0,4096000.0,12th Gen Intel Core i7 12700H,6GB NVIDIA GeForce RTX 4050,16.0,Windows 11 OS
+723,IdeaPad Flex 5 82R900D9IN Laptop,Lenovo,64990,16.0,512.0,2304000.0,5th Gen AMD Ryzen 7 5700U,AMD Radeon,14.0,Windows 11 OS
+724,Vivobook 16X 2023 K3605ZF-MBN741WS Laptop,Asus,84800,16.0,512.0,2304000.0,12th Gen Intel Core i7 12650H,4GB NVIDIA GeForce RTX 2050,16.0,Windows 11 OS
+725,IdeaPad Flex 5 82XX007KIN Laptop,Lenovo,64990,16.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon AMD,14.0,Windows 11 OS
+726,Nitro 16 ‎AN16-41 Gaming Laptop,Acer,129990,16.0,512.0,2304000.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+727,Nitro 16 ‎AN16-41 2023 Gaming Laptop,Acer,114990,8.0,512.0,2304000.0,7th Gen AMD Ryzen 7 7840HS,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+728,Aspire 5 2023 A515-58M Gaming Laptop,Acer,80000,8.0,512.0,2073600.0,13th Gen Intel Core i7 1355U,4GB NVIDIA GeForce RTX2050,15.6,Windows 11 OS
+729,Aspire 5 15 A515-58M Gaming Laptop,Acer,54990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,4GB NVIDIA GeForce RTX2050,15.6,Windows 11 OS
+730,Gram 14 2023 ‎‎14Z90R-G.CH54A2 Laptop,LG,98999,16.0,512.0,2304000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+731,Latitude 5420 Business Laptop,Dell,69990,8.0,512.0,2073600.0,10th Gen Intel Core i5 10310U,Intel UHD Graphics,14.0,Windows 10 OS
+732,Vivobook Pro 15 M6500QC-LK742WS Laptop,Asus,76990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+733,UH-X ‎4ZR1L12857 Laptop,Fujitsu,74990,16.0,512.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+734,UH-X ‎4ZR1L12856 Laptop,Fujitsu,89990,16.0,512.0,2304000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+735,15s-fq3073TU Laptop Intel Pentium Silver N6000/ 8GB/ 512GB SSD/ Win11 Home),HP,29999,8.0,512.0,1049088.0,Intel Pentium Silver   N6000,Intel Integrated UHD Graphics,15.6,Windows 11 OS
+736,ZBook Firefly 16 G9 2023 Workstation Laptop,HP,97705,16.0,512.0,2304000.0,12th Gen Intel Core i5 1235U,4GB NVIDIA RTX A500,16.0,Windows 11 OS
+737,ZBook Studio G9 16 Workstation WQUXGA Laptop,HP,240707,32.0,1024.0,9216000.0,12th Gen Intel Core i9 12900H,6GB NVIDIA GeForce RTX 3060,16.0,Windows 11 OS
+738,ZBook Studio G9 WUXGA Workstation Laptop,HP,234990,16.0,1024.0,2304000.0,12th Gen Intel Core i7 12700H,8GB NVIDIA GeForce RTX 3070 Ti,16.0,Windows 11 OS
+739,ZBook Studio G9 16 WUXGA Workstation Laptop,HP,209990,16.0,1024.0,2304000.0,12th Gen Intel Core i7 12700H,6GB NVIDIA GeForce RTX 3060,16.0,Windows 11 OS
+740,ZBook Studio G9 2023 Workstation WQUXGA Laptop,HP,390914,32.0,1024.0,9216000.0,12th Gen Intel Core i9 12900H,12GB NVIDIA GeForce RTX 3080 Ti,16.0,Windows 11 OS
+741,ZBook Studio G9 Workstation WQUXGA Laptop,HP,172588,16.0,1024.0,9216000.0,12th Gen Intel Core i7 12700H,6GB NVIDIA GeForce RTX 3060,16.0,Windows 11 OS
+742,ZBook Studio G9 Workstation Laptop,HP,254657,16.0,1024.0,9216000.0,12th Gen Intel Core i7 12700H,8GB NVIDIA GeForce RTX 3070 Ti,16.0,Windows 11 OS
+743,gram360 16 Laptop,LG,152499,16.0,1024.0,4096000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,16.0,Windows 11 OS
+744,IdeaPad 1 82V6005CIN Laptop,Lenovo,23990,4.0,256.0,1049088.0,Intel Celeron  N4020,Intel UHD Graphics 600,11.6,Windows 11 OS
+745,ROG Zephyrus G14 GA402NJ-L8094WS Gaming Laptop,Asus,119990,16.0,512.0,4096000.0,6th Gen AMD Ryzen 7  7735HS,6GB NVIDIA GeForce RTX 3050,14.0,Windows 11 OS
+746,UltraPC 16 ‎16U70R-G.AH56A2 Laptop,LG,78299,16.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon 7 Graphics,16.0,Windows 11 OS
+747,Gram 14 2023 ‎14Z90R-G.CH75A2 Laptop,LG,115990,16.0,512.0,2304000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+748,Vivobook 15 2023 X1504VA-NJ544WS Laptop,Asus,61990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+749,255 G8 6E3Z0PA Laptop,HP,26999,8.0,512.0,1049088.0,3rd Gen AMD Ryzen 3  3250U,AMD Radeon Graphics,15.6,DOS OS
+750,Omen 16-wd0990TX Gaming Laptop,HP,103099,16.0,512.0,3686400.0,13th Gen Intel Core i5 13420H,6GB NVIDIA GeForce RTX 4050,16.1,Windows 11 OS
+751,Zerobook 13 ZL513 2023 Laptop,Infinix,64990,32.0,1024.0,2073600.0,13th Gen Intel Core i7 13700H,Intel Integrated Iris Xe,15.6,Windows 11 OS
+752,S14 Gen 3 82TW001CIH Laptop,Lenovo,47990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel UHD Graphics,14.0,Windows 11 OS
+753,IdeaPad 1 14IGL7 82V6005EIN Laptop,Lenovo,24990,8.0,256.0,1049088.0,4th Gen Intel Celeron N4020,Intel Integrated UHD,14.0,Windows 10 OS
+754,ThinkPad T14 Gen 2 20W0S16Q00 Laptop,Lenovo,130800,16.0,512.0,2073600.0,11th Gen Intel Core i7 1165G7,2GB NVIDIA GeForce MX450,14.0,Windows 11 OS
+755,Thin GF63 11SC-1462IN Gaming Laptop,MSI,57990,16.0,512.0,2073600.0,11th Gen Intel Core i7 11800H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+756,ThinkBook 15 21JF002CIN Laptop,Lenovo,38500,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7330U,AMD Radeon AMD,15.6,DOS OS
+757,Thin GF63 11SC-1477IN Gaming Laptop,MSI,47990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11260H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+758,ThinkPad E14 21JRS00Y00 Laptop,Lenovo,44990,8.0,512.0,2304000.0,7th Gen AMD Ryzen 3 7330U,AMD Radeon Graphics,14.0,Windows 11 OS
+759,Katana GF66 12UCOK 2023 Gaming Laptop,MSI,69990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+760,Vivobook 15 2023 X1504VA-NJ543WS Laptop,Asus,61990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+761,Vivobook 16X 2023 K3605ZU-MB541WS Laptop,Asus,89990,16.0,512.0,2304000.0,12th Gen Intel Core i5 12450H,6GB NVIDIA Geforce RTX 4050,16.0,Windows 11 OS
+762,Vivobook 15 OLED 2023 X1505VAU-LK543WS Laptop,Asus,65990,16.0,512.0,2073600.0,13th Gen ‎Intel Core i5 1335U,Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+763,ThinkPad E14 21JRS00T00 Laptop,Lenovo,58990,8.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon Graphics,14.0,Windows 11 OS
+764,Envy x360 15-fe0028TU Laptop,HP,94990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Iris Xe,15.6,Windows 11 OS
+765,Envy x360 15-fh0019AU Laptop,HP,86490,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon AMD,15.6,Windows 11 OS
+766,Envy x360 15-fh0015AU Laptop,HP,77490,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon AMD,15.6,Windows 11 OS
+767,Envy x360 15-fh0016AU Laptop,HP,85490,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon AMD,15.6,Windows 11 OS
+768,IdeaPad Slim 3 2023 82X70033IN Laptop,Lenovo,44000,8.0,512.0,2073600.0,13th Gen Intel Core i3 1305U,Integrated Intel UHD Graphics,15.6,Windows 11 OS
+769,14-em0027AU Laptop,HP,51990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,14.0,Windows 11 OS
+770,Vostro 15 3510 Laptop,Dell,37990,8.0,1024.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel UHD Graphics,15.6,Windows 11 OS
+771,14-em0025AU Laptop,HP,34990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon AMD,14.0,Windows 11 OS
+772,ThinkPad E14 21JRS00U00 Laptop,Lenovo,57799,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon Graphics,14.0,Windows 11 OS
+773,Thinkpad E15 21E6S05B00 Laptop,Lenovo,65990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel UHD Graphics,15.6,Windows 11 OS
+774,Thinkbook 15 21DJ00EXIH Laptop,Lenovo,53990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Iris Xe Graphics,15.6,Windows 11 OS
+775,IdeaPad Gaming 3 15ACH6 82K2025JIN Laptop,Lenovo,49990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5600H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+776,Stealth 15 A13VF-074IN Gaming Laptop,MSI,171990,16.0,1024.0,3686400.0,13th Gen Intel Core i7 13620H,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+777,14-gr0000TU Laptop,HP,44990,8.0,512.0,2073600.0,13th Gen Intel Core i3 1315U,Intel UHD Graphics,14.0,Windows 11 OS
+778,Envy 15-fe0032TU Laptop,HP,115990,16.0,1024.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Iris X Graphics,15.6,Windows 11 OS
+779,14-hr0000AU Laptop,HP,50990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,14.0,Windows 11 OS
+780,Envy 15-fe0030TU Laptop,HP,109990,16.0,512.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Iris X Graphics,15.6,Windows 11 OS
+781,One 14 Z2-493 Laptop,Acer,29990,8.0,256.0,1049088.0,3rd Gen AMD Ryzen 5 3500U,AMD Radeon Graphics,14.0,Windows 11 OS
+782,ROG Zephyrus G14 2023 GA402XU-N2045WS Gaming Laptop,Asus,163999,16.0,1024.0,4096000.0,7th Gen AMD Ryzen 9 7940HS,6GB NVIDIA GeForce RTX 4050,14.0,Windows 11 OS
+783,TUF Gaming F15 FX506HF-HN026W Gaming Laptop,Asus,58990,8.0,1024.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+784,Inspiron 5430 2023 Laptop,Dell,83990,16.0,512.0,2073600.0,13th Gen Intel Core i7 1355U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+785,Inspiron 3525 Laptop,Dell,43890,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon Radeon Graphics,15.6,Windows 11 OS
+786,A16 Gaming Laptop,Ninkear,79999,32.0,2048.0,4096000.0,7th Gen AMD Ryzen 7 7735HS,AMD Radeon 680M,16.0,Windows 11 OS
+787,IdeaPad 3 15ITL05 81X800N2IN Laptop,Lenovo,35490,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Iris Xe Graphics,15.6,Windows 11 OS
+788,Zbook Power G4-A ZHAN 99 Laptop,HP,137890,32.0,1024.0,2073600.0,6th Gen AMD Ryzen 7 6800H,4GB NVIDIA Quadro T600,15.6,Windows 11 OS
+789,Inspiron 7420 2in1 Laptop,Dell,94990,16.0,512.0,2304000.0,12th Gen Intel Core i7 1255U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+790,IdeaPad Gaming 3 15IAH7 82S9014KIN Laptop,Lenovo,67990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+791,14-em0026AU Laptop,HP,46990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7520U,AMD Radeon AMD,14.0,Windows 11 OS
+792,Vivobook 16X 2023 K3605ZU-MB741WS Laptop,Asus,94990,16.0,512.0,2304000.0,12th Gen Intel Core i7 12650H,6GB NVIDIA Geforce RTX 4050,16.0,Windows 11 OS
+793,GF75 Thin 10SCXR-007IN Laptop,MSI,83500,8.0,512.0,2073600.0,10th Gen Intel Core i7 10750H,4GB NVIDIA GeForce GTX 1650,17.3,Windows 10 OS
+794,Cyborg 15 A12VE-051IN Gaming Laptop,MSI,91990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+795,Cyborg 15 A12VF-049IN Gaming Laptop,MSI,111990,16.0,512.0,2073600.0,12th Gen Intel Core i7 12650H,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+796,250 G9 701H5PA Laptop,HP,67990,16.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+797,Thinkpad E14 21E3S06300 Laptop,Lenovo,67999,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe,14.0,DOS OS
+798,‎ThinkPad E14 Gen 4 21E3S06Q00 Laptop,Lenovo,46200,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD,14.0,DOS OS
+799,Vostro 5620 Laptop,Dell,52998,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD,16.0,Windows 11 OS
+800,Vostro 3525 D560926WIN9B Laptop,Dell,45499,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon Graphics,15.6,Windows 11 OS
+801,‎ThinkPad E14 Gen 4 21E3S06D00 Laptop,Lenovo,49999,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel UHD,14.0,Windows 11 OS
+802,Aspire 3 A315-510P Laptop,Acer,29980,8.0,256.0,2073600.0,Intel Core i3 N305,Intel UHD Graphics,15.6,Windows 11 OS
+803,Inspiron 16 5635 Laptop,Dell,57290,8.0,512.0,2304000.0,7th Gen Amd Ryzen 5 7530U,AMD Radeon Graphics,16.0,Windows 11 OS
+804,Pavilion 14-dv1043TU Laptop,HP,58990,8.0,512.0,2073600.0,11th Gen Intel Core i5 1155G7,Intel Integrated Iris Xe,14.0,Windows 11 OS
+805,Blade 14 2023 Gaming Laptop,Razer,199990,32.0,1024.0,4096000.0,7th Gen Amd Ryzen 9 7940HS,8GB NVIDIA GeForce RTX 4060,14.0,Windows 11 OS
+806,Bravo 15 C7UDXK-092IN Gaming Laptop,MSI,79990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 7 7735HS,6GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+807,Bravo 15 C7UDXK-093IN Gaming Laptop,MSI,78990,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,6GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+808,Aspire 5 A514-56M 2023 Gaming Laptop,Acer,51990,8.0,512.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+809,Bravo 17 C7VFK-034IN Gaming Laptop,MSI,104990,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 7 7735HS,8GB Nvidia GeForce RTX 4060,17.3,Windows 11 OS
+810,Bravo 15 C7VFK-087IN Gaming Laptop,MSI,104990,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 7  7735HS,8GB Nvidia GeForce RTX 4060,15.6,Windows 11 OS
+811,One 14 2023 Z8-415 ‎Laptop,Acer,39990,8.0,512.0,2073600.0,11th Gen Intel Core i5  1135G7,Intel Iris Xe Graphics,14.0,Windows 11 OS
+812,Thin GF63 11UCX-1441IN Gaming Laptop,MSI,59990,16.0,512.0,2073600.0,11th Gen Intel Core i7 11800H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+813,Thin GF63 11UCX-1471IN Gaming Laptop,MSI,47990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11260H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+814,Vivobook 15 X1504ZA-NJ521WS Laptop,Asus,47890,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Integrated Intel Iris Xe Graphics,15.6,Windows 11 OS
+815,Bravo 15 C7VEK-089IN Gaming Laptop,MSI,85490,16.0,512.0,2073600.0,7th Gen AMD Ryzen 5 7535HS,6GB Nvidia GeForce RTX 4050,15.6,Windows 11 OS
+816,Bravo 15 C7VEK-088IN Gaming Laptop,MSI,94990,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 7  7735HS,6GB Nvidia GeForce RTX 4050,15.6,Windows 11 OS
+817,Bravo 17 C7VEK-035IN Gaming Laptop,MSI,95490,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 7 7735HS,6GB Nvidia GeForce RTX 4050,17.3,Windows 11 OS
+818,255 G9 7M654PA Laptop,HP,54999,8.0,512.0,1049088.0,12th Gen Intel Core i3 1215U,AMD Radeon Graphics,15.6,Windows 11 OS
+819,ThinkPad T14 2022 Laptop,Lenovo,159000,16.0,512.0,2304000.0,12th Gen Intel Core i7 1260P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+820,Inspiron 5620 ICC-C783531WIN8 Laptop,Dell,80610,16.0,512.0,2073600.0,12th Gen Intel Core i5 1240P,2GB NVIDIA GeForce MX570,16.0,Windows 11 OS
+821,Prestige 13 Evo A12M-085IN Laptop,MSI,77990,8.0,512.0,2304000.0,12th Gen Intel Core i5 1240P,Intel Integrated Iris Xe,13.3,Windows 11 OS
+822,XPS 17 9730 Laptop,Dell,303490,32.0,1024.0,9216000.0,13th Gen Intel Core i7 13700H,8GB NVIDIA GeForce RTX 4060,17.0,Windows 11 OS
+823,XPS 13 Plus 9320 2023 Laptop,Dell,201990,32.0,1024.0,9216000.0,13th Gen Intel Core i7 1360P,Intel Iris Xe Graphics,13.4,Windows 11 OS
+824,XPS 9530 2023 Laptop,Dell,278290,32.0,1024.0,7464960.0,13th Gen Intel Core i7 13700H,6GB NVIDIA RTX 4050,15.6,Windows 11 OS
+825,Legion Pro 7i 2023 Gaming Laptop,Lenovo,286200,32.0,1024.0,4096000.0,13th Gen Intel Core i9 13900HX,12GB NVIDIA Geforce RTX 4080,16.0,Windows 11 OS
+826,Legion Slim 7i 2023 Gaming Laptop,Lenovo,157544,16.0,1024.0,6400000.0,13th Gen Intel Core i5 13500H,8GB NVIDIA Geforce RTX 4060,16.0,Windows 11 OS
+827,Legion Pro 5 82WM00B5IN 2023 Gaming Laptop,Lenovo,140990,16.0,1024.0,4096000.0,7th Gen AMD Ryzen 7 7745HX,8GB NVIDIA Geforce RTX 4060,16.0,Windows 11 OS
+828,Thinkpad E14 G4 21E3S02M00 Laptop,Lenovo,133000,16.0,512.0,2073600.0,12th Gen Intel Core i7 1255U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+829,Thinkpad E14 G4 21E3006UIG Laptop,Lenovo,72500,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Iris Xe Graphics,14.0,DOS OS
+830,Gram 14 2023 14Z90R Laptop,LG,127000,8.0,512.0,2304000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,14.0,Windows 11 OS
+831,Gram 17 2023 17Z90R-G.CH77A2 Laptop,LG,146990,16.0,1024.0,4096000.0,13th Gen Intel Core i7 1360P,4GB Nvidia RTX 3050,17.0,Windows 11 OS
+832,Gram 16 2023 16Z90R Laptop,LG,142990,16.0,1024.0,4096000.0,13th Gen Intel Core i7 1360P,4GB Nvidia RTX 3050,16.0,Windows 11 OS
+833,Gram 2 in 1 16 Laptop,LG,205000,8.0,256.0,4096000.0,13th Gen Intel Core i5 1340P,Intel Iris Xe Graphics,16.0,Windows 11 OS
+834,UltraPC 16 16U70R-G.AH76A2 Laptop,LG,89799,16.0,512.0,2304000.0,7th Gen AMD Ryzen 7 7730U,AMD Radeon 7 Graphics,16.0,Windows 11 OS
+835,Thinkbook 14 Gen 4 Laptop,Lenovo,63999,16.0,1024.0,2073600.0,12th Gen Intel Core i5 1235U,Integrated Intel UHD Graphics,14.0,Windows 11 OS
+836,Inspiron 3525 D560927WIN9S Laptop,Dell,43490,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5  5500u,AMD Radeon,15.6,Windows 11 OS
+837,Vayu Book LAP01 Laptop,AXL,12990,4.0,128.0,2073600.0,Intel Celeron  N4020,Intel Integrated UHD Graphics,14.1,Windows 11 OS
+838,Vayu Book LAP02 Laptop,AXL,15990,4.0,256.0,2073600.0,Intel Celeron  N4020,Intel Integrated UHD Graphics,15.6,Windows 11 OS
+839,Modern 14 C12M-444IN Laptop,MSI,36990,16.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,14.0,Windows 11 OS
+840,Vivobook 14X 90NB11H2-M004D0 Laptop,Asus,63990,16.0,512.0,2304000.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce RTX 2050,14.0,Windows 11 OS
+841,S14 82TW0019IH Laptop,Lenovo,45990,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Integrated Intel UHD Graphics,14.0,Windows 11 OS
+842,V15 G2 ALC 82KDA01YIH Laptop,Lenovo,34990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon AMD,15.6,DOS OS
+843,ThinkBook 15 G3 ACL 21A4A08VIH Laptop,Lenovo,41490,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5500U,AMD Radeon AMD,15.6,Windows 11 OS
+844,Vivobook Pro 15 M6500QF-HN741WS  Laptop,Asus,64990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5800H,4GB NVIDIA GeForce RTX 2050,15.6,Windows 11 OS
+845,Victus 16 7K4J6PAACJ Laptop,HP,57990,8.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce GTX 1650,16.1,Windows 11 OS
+846,Aspire 7 A715-76G UN.QMESI.003 Gaming Laptop,Acer,54990,16.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+847,Alienware x14 R2 Gaming Laptop,Dell,208990,16.0,1024.0,4096000.0,13th Gen Intel Core i7 13620H,6GB NVIDIA GEFORCE RTX 4050,14.0,Windows 11 OS
+848,Vivobook S15 OLED 2023 S5504VA-MA554WS Laptop,Asus,91560,16.0,1024.0,4665600.0,13th Gen Intel Core i5 13500H,Intel Integrated Iris Xe,15.6,Windows 11 OS
+849,Thinkpad E14 20TA00J2IG Laptop,Lenovo,74000,16.0,512.0,2073600.0,11th Gen Intel Core i5 1135G7,Intel Iris Xe Graphics,14.0,Windows 11 OS
+850,V15 G3 Laptop,Lenovo,51999,8.0,512.0,2073600.0,12th Gen Intel Core i5 1235U,Intel Integrated UHD,15.6,Windows 11 OS
+851,V15 G3 ‎‎82C7007SGE Laptop,Lenovo,31990,8.0,512.0,2073600.0,7th Gen AMD Ryzen 3 7320U,AMD Radeon Graphics,15.6,Windows 11 OS
+852,IdeaPad 3 15ITL6 82H803HLIN Laptop,Lenovo,32490,8.0,256.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows 11 OS
+853,IdeaPad 5 15ITL05 82FG01UUIN Laptop,Lenovo,74888,16.0,512.0,2073600.0,Intel Core i7,2GB NVIDIA GeForce MX450,15.6,Windows 11 OS
+854,Victus 16-d0302TX Gaming Laptop,HP,66500,8.0,512.0,2073600.0,11th Gen Intel Core i5 11400H,4GB NVIDIA GeForce GTX 1650,16.1,Windows 11 OS
+855,‎G16-7630 2023 Gaming Laptop,Dell,156799,16.0,1024.0,4096000.0,13th Gen Intel Core i7 13650HX,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+856,2023 ‎G16-7630 Gaming Laptop,Dell,166899,32.0,1024.0,4096000.0,13th Gen Intel Core i7 13650HX,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+857,Inspiron 7430 IC7430FD64T001ORS1 Laptop,Dell,89990,16.0,512.0,2304000.0,13th Gen Intel Core i7 1355U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+858,Omen 17-cm2003TX Gaming Laptop,HP,171499,16.0,1024.0,3686400.0,13th Gen Intel 7 13700HX,8GB NVIDIA GeForce RTX 4060,17.3,Windows 11 OS
+859,14s-dr3003TU 832T7PA Laptop,HP,29999,8.0,512.0,1049088.0,Intel Pentium Silver N6000,Intel UHD Graphics,14.0,Windows 11 OS
+860,IdeaPad 3 15ITL6 82H8038WIN Laptop,Lenovo,35998,8.0,512.0,2073600.0,11th Gen Intel Core i3 1115G4,Intel Integrated UHD,15.6,Windows 11 OS
+861,Inspiron 15 3530 Laptop,Dell,44989,8.0,512.0,2073600.0,13th Gen Intel Core i3 1305U,Intel Integrated UHD,15.6,Windows 11 OS
+862,Aspire 3 A315-59 NX.K6TSI.00C Laptop,Acer,34990,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Iris Xe Graphics,15.6,Windows 11 OS
+863,INBook X2 Slim Series XL23 Laptop,Infinix,48990,16.0,512.0,2073600.0,11th Gen Intel Core i7 1195G7,Intel Integrated Iris Xe,14.0,Windows 11 OS
+864,Inspiron 7430 IC7430PXXWC001ORS1 Laptop,Dell,72990,8.0,512.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+865,Inspiron 5430 IN54308TR2G001ORS1 Laptop,Dell,71570,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+866,Victus 15-fb0137AX Gaming Laptop,HP,74990,16.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5800H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+867,Eeebook 15 E510MA-EJ011WS Laptop,Asus,25990,8.0,256.0,2073600.0,Intel Celeron N4020,Intel UHD Integrated,15.6,Windows 11 OS
+868,ProBook 445 G8 7K2J8PA Business Laptop,HP,46490,8.0,512.0,2073600.0,5th Gen AMD Ryzen 7 5800U,AMD Radeon,14.0,DOS OS
+869,Inspiron 5430 IN5430YXVW9M01ORS1 Laptop,Dell,64590,8.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,14.0,Windows 11 OS
+870,Inspiron 3530 IN3530NM1NN001ORS1 Laptop,Dell,63990,8.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated UHD,15.6,Windows 11 OS
+871,Creator Z17 HX Studio A13V Laptop,MSI,247999,32.0,1024.0,4096000.0,13th Gen Intel Core i9 13900H,8GB NVIDIA GeForce RTX 4070,17.0,Windows 11 OS
+872,Inspiron 7630 IC7630GHHRH001ORS1 2 in 1 Laptop,Dell,93990,8.0,512.0,2304000.0,13th Gen Intel Core i5 1335U,Intel Iris Xe Graphics,16.0,Windows 11 OS
+873,Victus 15-fb0131AX Gaming Laptop,HP,51990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB AMD Radeon RX 5600M,15.6,Windows 11 OS
+874,Vivobook 16 2023 M1605YA-MB521WS Laptop,Asus,47990,8.0,512.0,2304000.0,7th Gen AMD Ryzen 5 7530U,AMD Radeon AMD,16.0,Windows 11 OS
+875,V14 G3 82TSA01KIH Laptop,Lenovo,34390,8.0,512.0,2073600.0,12th Gen Intel Core i3 1215U,Intel Integrated UHD,14.0,DOS OS
+876,Aspire 7 A715-76G NH.QMESI.003 Gaming Laptop,Acer,50990,8.0,512.0,2073600.0,12th Gen Intel Core i5 12450H,4GB NVIDIA GeForce GTX 1650,15.6,Windows 11 OS
+877,15s-fq3071TU Laptop,HP,28490,8.0,512.0,1049088.0,Intel Celeron  N4500,Intel Integrated UHD Graphics,15.0,Windows 11 OS
+878,Katana 15 B12UDXK-1017IN Gaming Laptop,MSI,79990,8.0,512.0,2073600.0,12th Gen Intel Core i7 12650H,6GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+879,Katana 15 B12UDXK-1019IN Gaming Laptop,MSI,79990,16.0,1024.0,2073600.0,12th Gen Intel Core i5 12450H,6GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+880,One 14 Z2-493 Business Laptop,Acer,29990,8.0,512.0,1049088.0,3rd Gen AMD Ryzen 5 3500U,AMD Radeon Radeon Graphics,14.0,Windows 11 OS
+881,Victus 15-fb0135AX Gaming Laptop,HP,59990,8.0,512.0,2073600.0,5th Gen AMD Ryzen 5 5600H,4GB NVIDIA GeForce RTX 3050,15.6,Windows 11 OS
+882,Swift Edge 16 2023 Laptop,Acer,107399,16.0,1024.0,9216000.0,7th Gen AMD Ryzen 7040 Series 040,AMD Radeon AMD,16.0,Windows 11 OS
+883,G15-5530 Gaming 2023 Laptop,Dell,129199,16.0,512.0,2073600.0,13th Gen Intel Core i7 13650HX,8GB NVIDIA GeForce RTX 4060,15.6,Windows 11 OS
+884,G15-5530 Gaming Laptop,Dell,119990,16.0,512.0,2073600.0,13th Gen Intel Core i7 13650HX,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+885,‎G16-7630 Gaming Laptop,Dell,187490,16.0,1024.0,4096000.0,13th Gen Intel Core i9 13900HX,8GB NVIDIA GeForce RTX 4060,16.0,Windows 11 OS
+886,G15-5530 2023 Gaming Laptop,Dell,125699,16.0,512.0,2073600.0,13th Gen Intel Core i7 13650HX,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+887,Aspire Vero AV14-52P NX.KJTSI.002 Laptop,Acer,49990,16.0,512.0,2073600.0,13th Gen Intel Core i3 1315U,Intel Integrated UHD,14.0,Windows OS
+888,Aspire 5 A515-58M NX.KHGSI.002 Gaming Laptop,Acer,56990,16.0,512.0,2073600.0,13th Gen Intel Core i5 1335U,Intel Integrated Iris Xe,15.6,Windows 11 OS
+889,Vivobook 15X 2023 K3504VAB-NJ321WS Laptop,Asus,44990,8.0,512.0,2073600.0,13th Gen ‎Intel Core i3 1315U,Integrated Intel UHD Graphics,15.6,Windows 11 OS
+890,TUF A15 FA577RM-HQ032WS Laptop,Asus,110000,16.0,1024.0,3686400.0,6th Gen AMD Ryzen 7 6800H,6GB NVIDIA GeForce RTX 3060,15.6,Windows 11 OS
+891,ROG Zephyrus G14 2023 GA402XV-N2034WS Gaming Laptop,Asus,189990,32.0,1024.0,4096000.0,7th Gen AMD Ryzen 9 7940HS,8GB NVIDIA GeForce RTX 4060,14.0,Windows 11 OS
+892,TUF Gaming F15 2023 FX507VU-LP083WS Gaming Laptop,Asus,129990,16.0,512.0,2073600.0,13th Gen Intel Core i7 13700H,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
+893,TUF Gaming A15 2023 FA577XU-LP041WS Gaming Laptop,Asus,131990,16.0,1024.0,2073600.0,7th Gen AMD Ryzen 9 7940HS,6GB NVIDIA GeForce RTX 4050,15.6,Windows 11 OS
